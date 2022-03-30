@@ -68,6 +68,7 @@
 ## Year 2018
 1. [ECCV Workshop 2018] **Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization** \[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-11018-5_47)|[code](https://github.com/DarrenZZhang/IMC_GRMF)]
 2. [RecSys 2018] **Spectral Collaborative Filtering** \[[paper](https://dl.acm.org/doi/10.1145/3240323.3240343)|[code](https://github.com/lzheng21/SpectralCF)]
+3. [Arxiv 2018] **Attributed Network Embedding for Incomplete Attributed Networks** \[[paper](https://arxiv.org/pdf/1811.11728v2.pdf)]
 
 ## Year 2017
 1. [NeurIPS 2017] **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks** \[[paper](https://proceedings.neurips.cc/paper/2017/file/2eace51d8f796d04991c831a07059758-Paper.pdf)|[code](https://github.com/fmonti/mgcnn)]
