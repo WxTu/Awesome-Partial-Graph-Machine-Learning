@@ -18,7 +18,7 @@
 1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper](https://ieeexplore.ieee.org/document/9229522)|[code](https://github.com/xuChenSJTU/SAT-master-online)]
 2. [SIGIR 2022] **Re-thinking Knowledge Graph Completion Evaluation from an Information Retrieval Perspective** \[[paper](https://arxiv.org/pdf/2205.04105.pdf)]
 3. [ACL 2022] **SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models** \[[paper](https://arxiv.org/pdf/2203.02167.pdf)] 
-4. [ACL 2022] **CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion** \[[paper]([https://arxiv.org/pdf/2203.02167.pdf)](https://arxiv.org/pdf/2202.13785.pdf))] 
+4. [ACL 2022] **CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2202.13785.pdf)] 
 5. [IJCAI 2022] **Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2205.00904.pdf)]
 6. [IJCAI 2022] **Deep Partial Multiplex Network Embedding** \[[paper](https://arxiv.org/pdf/2205.00904.pdf)]
 7. [WWW 2022] **From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer** \[[paper](https://arxiv.org/pdf/2202.02113.pdf)]
