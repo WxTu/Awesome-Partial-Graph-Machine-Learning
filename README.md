@@ -48,17 +48,16 @@
 8. [CIKM 2021] **Inductive Matrix Completion Using Graph Autoencoder** \[[paper](https://dl.acm.org/doi/10.1145/3459637.3482266)|[code](https://github.com/swtheing/IMC-GAE)]
 9. [ICASSP 2021] **Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation** \[[paper](https://ieeexplore.ieee.org/document/9414016)]
 10. [IEEE TSP 2021] **Community Detection and Matrix Completion With Social and Item Similarity Graphs** \[[paper](https://ieeexplore.ieee.org/document/9328183)|[code](https://github.com/bayrameda/MrAP)]
-11. [Arxiv 2021.11] **On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features** \[[paper](https://arxiv.org/pdf/2111.12128.pdf)]
+11. [Arxiv 2021.02] **Wasserstein Diffusion on Graphs with Missing Attributes** \[[paper](https://arxiv.org/pdf/2102.03450.pdf)]
 12. [Arxiv 2021.06] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2003.10130v2.pdf)]
-13. [Arxiv 2021] **Siamese Attribute-missing Graph Auto-encoder** \[[paper](https://arxiv.org/pdf/2112.04842.pdf)]
-14. [Arxiv 2021] **Wasserstein Diffusion on Graphs with Missing Attributes** \[[paper](https://arxiv.org/pdf/2102.03450.pdf)]
-15. [Arxiv 2021] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
-16. [Arxiv 2021] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper](https://arxiv.org/pdf/2112.00739.pdf)]
-17. [Arxiv 2021] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper](https://arxiv.org/pdf/2110.08223.pdf)]
-18. [Arxiv 2021] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper](https://arxiv.org/pdf/2110.04866.pdf)|[code](https://github.com/microsoft/project-azua)]
-19. [Arxiv 2021] **Two-view Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2112.09231.pdf)]
-20. [Arxiv 2021] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2110.14890.pdf)|[code](https://github.com/google-research/smore)]
-21. [Arxiv 2021] **Incomplete Knowledge Graph Alignment** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
+13. [Arxiv 2021.10] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper](https://arxiv.org/pdf/2110.08223.pdf)]
+14. [Arxiv 2021.10] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper](https://arxiv.org/pdf/2110.04866.pdf)|[code](https://github.com/microsoft/project-azua)]
+15. [Arxiv 2021.10] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2110.14890.pdf)|[code](https://github.com/google-research/smore)]\
+16. [Arxiv 2021.11] **On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features** \[[paper](https://arxiv.org/pdf/2111.12128.pdf)]
+17. [Arxiv 2021.12] **Siamese Attribute-missing Graph Auto-encoder** \[[paper](https://arxiv.org/pdf/2112.04842.pdf)][Arxiv 2021.12] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
+18. [Arxiv 2021.12] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper](https://arxiv.org/pdf/2112.00739.pdf)]
+19. [Arxiv 2021.12] **Two-view Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2112.09231.pdf)]
+20. [Arxiv 2021.12] **Incomplete Knowledge Graph Alignment** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
 
 
 
@@ -77,17 +76,17 @@
 1. [KBS 2019] **Adversarial Learning for Multi-view Network Embedding on Incomplete Graphs** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119302278?via%3Dihub)]
 2. [ICDM 2019] **Learning to Hash for Efficient Search over Incomplete Knowledge Graphs** \[[paper](https://ieeexplore.ieee.org/document/8970688)|[code](https://github.com/seu-kse/HashKG)]
 3. [K-CAP 2019] **Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/1910.00084.pdf)|[code](https://github.com/gengchenmai/Attention_GraphQA)]
-4. [Arxiv 2019] **Node Attribute Generation on Graphs** \[[paper](https://arxiv.org/pdf/1907.09708.pdf)]
+4. [Arxiv 2019.07] **Node Attribute Generation on Graphs** \[[paper](https://arxiv.org/pdf/1907.09708.pdf)]
 
 ## Year 2018
 1. [ECCV Workshop 2018] **Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization** \[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-11018-5_47)|[code](https://github.com/DarrenZZhang/IMC_GRMF)]
 2. [RecSys 2018] **Spectral Collaborative Filtering** \[[paper](https://dl.acm.org/doi/10.1145/3240323.3240343)|[code](https://github.com/lzheng21/SpectralCF)]
-3. [Arxiv 2018] **Attributed Network Embedding for Incomplete Attributed Networks** \[[paper](https://arxiv.org/pdf/1811.11728v2.pdf)]
+3. [Arxiv 2018.11] **Attributed Network Embedding for Incomplete Attributed Networks** \[[paper](https://arxiv.org/pdf/1811.11728v2.pdf)]
 
 ## Year 2017
 1. [NeurIPS 2017] **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks** \[[paper](https://proceedings.neurips.cc/paper/2017/file/2eace51d8f796d04991c831a07059758-Paper.pdf)|[code](https://github.com/fmonti/mgcnn)]
 2. [CIKM 2017] **From Properties to Links: Deep Network Embedding on Incomplete Graphs** \[[paper](https://dl.acm.org/doi/10.1145/3132847.3132975)]
-3. [Arxiv 2017] **Graph Convolutional Matrix Completion** \[[paper](https://arxiv.org/pdf/1706.02263.pdf)|[code](https://github.com/riannevdberg/gc-mc)]
+3. [Arxiv 2017.06] **Graph Convolutional Matrix Completion** \[[paper](https://arxiv.org/pdf/1706.02263.pdf)|[code](https://github.com/riannevdberg/gc-mc)]
 
 
 
