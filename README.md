@@ -22,6 +22,7 @@
 5. [ICLR 2022] **Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods** \[[paper](https://arxiv.org/pdf/2111.04840.pdf)|[code](https://github.com/amazon-research/gnn-tail-generalization)]
 6. [Arxiv 2022] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper](https://arxiv.org/pdf/2201.02534)]
 7. [Arxiv 2022] **Deep Partial Multiplex Network Embedding** \[[paper](https://arxiv.org/pdf/2203.02656.pdf)]
+8. [Arxiv 2022] **Accurate Node Feature Estimation with Structured Variational Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2206.04516.pdf)]
 
 ## Year 2021
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper](https://yangliang.github.io/pdf/www21.pdf)|[code](https://github.com/liangchundong/HGNN-AC)]
