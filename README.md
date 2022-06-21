@@ -21,7 +21,7 @@
 4. [ACL 2022] **SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models** \[[paper](https://arxiv.org/pdf/2203.02167.pdf)] 
 5. [ACL 2022] **CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2202.13785.pdf)] 
 6. [IJCAI 2022] **Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2205.00904.pdf)]
-7. [WWW 2022] **Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data** \[[paper](https://arxiv.org/abs/2201.08580)|[code](https://github.com/nju-websoft/TKGC)]
+7. [WWW 2022] **Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data** \[[paper](https://arxiv.org/abs/2201.08580)|[code](https://arxiv.org/pdf/2201.08580.pdf)]
 8. [WWW 2022] **From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer** \[[paper](https://arxiv.org/pdf/2202.02113.pdf)]
 9. [WWW Workshop 2022] **Deep Partial Multiplex Network Embedding** \[[paper](https://arxiv.org/pdf/2203.02656.pdf)]
 10. [IEEE TNNLS] **Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning** \[[paper](https://yangliang.github.io/pdf/tnnls22.pdf)]
