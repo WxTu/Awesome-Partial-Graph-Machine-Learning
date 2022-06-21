@@ -24,7 +24,7 @@
 7. [WWW 2022] **Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data** \[[paper](https://arxiv.org/abs/2201.08580)|[code](https://github.com/nju-websoft/TKGC)]
 8. [WWW 2022] **From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer** \[[paper](https://arxiv.org/pdf/2202.02113.pdf)]
 9. [WWW Workshop 2022] **Deep Partial Multiplex Network Embedding** \[[paper](https://arxiv.org/pdf/2203.02656.pdf)]
-10. [IEEE TNNLS] **Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning** \[[paper] (https://yangliang.github.io/pdf/tnnls22.pdf)]
+10. [IEEE TNNLS] **Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning** \[[paper](https://yangliang.github.io/pdf/tnnls22.pdf)]
 11. [PR 2022] **Incomplete Multiview Nonnegative Representation Learning with Multiple Graphs** \[[paper](https://www.sciencedirect.com/science/article/pii/S0031320321005884?casa_token=gw2E5xd2I78AAAAA:K8mBWuiiuB7PptbiBRRmOO0yoEJBttFvjYaHC61caGoKWjyXVq2ggw5WNKoKcvqW3_cVe2S3EQ)]
 12. [ICLR 2022] **Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods** \[[paper](https://arxiv.org/pdf/2111.04840.pdf)|[code](https://github.com/amazon-research/gnn-tail-generalization)]
 13. [Arxiv 2022.01] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper](https://arxiv.org/pdf/2201.02534)]
