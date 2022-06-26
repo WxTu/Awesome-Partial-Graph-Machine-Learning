@@ -11,7 +11,7 @@
 [![visitors][visitors-img]][adgc-url]
 
 
-# Awesome Partial Graph Representation Learning
+# Awesome Partial Graph Representation Learning :blush:
 <p align = "justify">Graph representation learning (GRL) has been intensively studied and widely applied into various applications recently, such as social network, knowledge graph, recommender system, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for partial graph representation learning literature. </p>
 
 ## Year 2022
