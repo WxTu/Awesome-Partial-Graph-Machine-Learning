@@ -34,6 +34,7 @@
 17. [Arxiv 2022.05] **MaskGAE: Masked Graph Modeling Meets Graph Autoencoders** \[[paper](https://arxiv.org/pdf/2205.10053.pdf)]
 18. [Arxiv 2022.06] **Accurate Node Feature Estimation with Structured Variational Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2206.04516.pdf)]
 19. [Arxiv 2022.06] **ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2206.04192.pdf)]
+20. [Arxiv 2022.06] **Schema-Guided Event Graph Completion** \[[paper](https://arxiv.org/pdf/2206.02921.pdf)]
 
 
 ## Year 2021
