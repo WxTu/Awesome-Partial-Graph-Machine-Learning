@@ -16,6 +16,7 @@
 
 ## Year 2022
 1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper](https://ieeexplore.ieee.org/document/9229522)|[code](https://github.com/xuChenSJTU/SAT-master-online)]
+2. [IEEE TMM 2022] **Latent Heterogeneous Graph Network for Incomplete Multi-View Learning** \[[paper](https://arxiv.org/pdf/2208.13669.pdf)]
 2. [IEEE TCYB 2022] **Amer: A New Attribute-Missing Network Embedding Approach** \[[paper](https://ieeexplore.ieee.org/abstract/document/9765782/)]
 3. [IEEE TNNLS 2022] **Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning** \[[paper](https://yangliang.github.io/pdf/tnnls22.pdf)]
 4. [ACL 2022] **SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models** \[[paper](https://arxiv.org/pdf/2203.02167.pdf)] 
