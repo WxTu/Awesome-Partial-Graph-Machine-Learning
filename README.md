@@ -46,7 +46,8 @@
 29. [Arxiv 2022.06] **Accurate Node Feature Estimation with Structured Variational Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2206.04516.pdf)]
 30. [Arxiv 2022.06] **ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2206.04192.pdf)]
 31. [Arxiv 2022.06] **Schema-Guided Event Graph Completion** \[[paper](https://arxiv.org/pdf/2206.02921.pdf)]
-32. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
+32. [Arxiv 2022.08] **Heterogeneous Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2208.09957.pdf)]
+33. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
 
 
 ## Year 2021
