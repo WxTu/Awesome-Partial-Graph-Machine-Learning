@@ -131,6 +131,7 @@
 * [awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning)
 * [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 * [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
+* [awesome-masked-autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders)
 
 ## Contact
 If interested, you are welcome to contribute this repo by contracting wenxuantu@163.com. 
