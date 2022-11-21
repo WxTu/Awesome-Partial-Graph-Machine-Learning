@@ -26,7 +26,7 @@
 9. [KDD 2022] **Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries** \[[paper](https://arxiv.org/pdf/2208.07638.pdf)] 
 10. [IJCAI 2022] **Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2205.00904.pdf)]
 11. [IJCAI 2022] **Initializing Then Refining: A Simple Graph Attribute Imputation Network** \[[paper](https://github.com/WxTu/ITR/blob/master/ITR-final.pdf)]
-12. [IJCAI 2022] **Masked Autoencoder Enhanced Predictor for Neural Architecture Search** \[[paper](https://www.ijcai.org/proceedings/2022/0432.pdf)]
+12. [IJCAI 2022] **Graph Masked Autoencoder Enhanced Predictor for Neural Architecture Search** \[[paper](https://www.ijcai.org/proceedings/2022/0432.pdf)]
 13. [WWW 2022] **Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data** \[[paper](https://arxiv.org/pdf/2201.08580.pdf)|[code](https://github.com/nju-websoft/TKGC)]
 14. [WWW 2022] **From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer** \[[paper](https://arxiv.org/pdf/2202.02113.pdf)]
 15. [WWW Workshop 2022] **Deep Partial Multiplex Network Embedding** \[[paper](https://arxiv.org/pdf/2203.02656.pdf)]
