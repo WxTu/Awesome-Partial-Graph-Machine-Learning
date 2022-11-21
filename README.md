@@ -53,11 +53,14 @@
 36. [Arxiv 2022.06] **Accurate Node Feature Estimation with Structured Variational Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2206.04516.pdf)]
 37. [Arxiv 2022.06] **ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2206.04192.pdf)]
 38. [Arxiv 2022.06] **Schema-Guided Event Graph Completion** \[[paper](https://arxiv.org/pdf/2206.02921.pdf)]
-39. [Arxiv 2022.07] **Unsupervised pre-training of graph transformers on patient population graphs** \[[paper](https://arxiv.org/pdf/2207.10603.pdf)]
-40. [Arxiv 2022.08] **Heterogeneous Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2208.09957.pdf)]
-41. [Arxiv 2022.08] **Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspectiv** \[[paper](https://arxiv.org/pdf/2208.09979.pdf)]
-42. [Arxiv 2022.09] **DiP-GNN: Discriminative Pre-Training of Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2209.07499.pdf)]
-43. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
+39. [Arxiv 2022.06] **Attention-wise Masked Graph Contrastive Learning for Predicting Molecular Property** \[[paper](https://arxiv.org/pdf/2206.08262.pdf)]
+40. [Arxiv 2022.07] **Unsupervised pre-training of graph transformers on patient population graphs** \[[paper](https://arxiv.org/pdf/2207.10603.pdf)]
+41. [Arxiv 2022.07] **Masked Spatial-Spectral Autoencoders Are Excellent Hyperspectral Defenders** \[[paper](https://arxiv.org/pdf/2207.07803.pdf)]
+42. [Arxiv 2022.07] **Cybersecurity Entity Alignment via Masked Graph Attention Networks** \[[paper](https://arxiv.org/pdf/2207.01434.pdf)]
+43. [Arxiv 2022.08] **Heterogeneous Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2208.09957.pdf)]
+44. [Arxiv 2022.08] **Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspectiv** \[[paper](https://arxiv.org/pdf/2208.09979.pdf)]
+45. [Arxiv 2022.09] **DiP-GNN: Discriminative Pre-Training of Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2209.07499.pdf)]
+46. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
 
 
 ## Year 2021
