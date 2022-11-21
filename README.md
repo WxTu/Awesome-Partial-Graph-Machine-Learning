@@ -62,7 +62,7 @@
 45. [Arxiv 2022.08] **Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspectiv** \[[paper](https://arxiv.org/pdf/2208.09979.pdf)]
 46. [Arxiv 2022.09] **DiP-GNN: Discriminative Pre-Training of Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2209.07499.pdf)]
 47. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
-
+48. [Arxiv 2022.10] **How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2210.08344.pdf)]
 
 ## Year 2021
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper](https://yangliang.github.io/pdf/www21.pdf)|[code](https://github.com/liangchundong/HGNN-AC)]
