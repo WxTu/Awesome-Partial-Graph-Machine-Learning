@@ -52,8 +52,9 @@
 35. [Arxiv 2022.06] **ExpressivE: A Spatio-Functional Embedding For Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2206.04192.pdf)]
 36. [Arxiv 2022.06] **Schema-Guided Event Graph Completion** \[[paper](https://arxiv.org/pdf/2206.02921.pdf)]
 37. [Arxiv 2022.08] **Heterogeneous Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2208.09957.pdf)]
-38. [Arxiv 2022.09] **DiP-GNN: Discriminative Pre-Training of Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2209.07499.pdf)]
-39. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
+38. [Arxiv 2022.08] **Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspectiv** \[[paper](https://arxiv.org/pdf/2208.09979.pdf)]
+39. [Arxiv 2022.09] **DiP-GNN: Discriminative Pre-Training of Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2209.07499.pdf)]
+40. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
 
 
 ## Year 2021
