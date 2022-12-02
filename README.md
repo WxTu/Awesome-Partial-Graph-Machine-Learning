@@ -67,6 +67,8 @@
 50. [Arxiv 2022.09] **DiP-GNN: Discriminative Pre-Training of Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2209.07499.pdf)]
 51. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
 52. [Arxiv 2022.10] **How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2210.08344.pdf)]
+53. [Arxiv 2022.11] **BatmanNet: Bi-branch Masked Graph Transformer Autoencoder for Molecular Representation** \[[paper](https://arxiv.org/pdf/2211.13979.pdf)]
+
 
 ## Year 2021
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper](https://yangliang.github.io/pdf/www21.pdf)|[code](https://github.com/liangchundong/HGNN-AC)]
