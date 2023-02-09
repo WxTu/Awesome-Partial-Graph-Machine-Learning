@@ -101,7 +101,7 @@
 16. [Arxiv 2021.06] **Graph Context Encoder: Graph Feature Inpainting for Graph Generation and Self-supervised Pretraining** \[[paper](https://arxiv.org/pdf/2106.10124.pdf)]
 17. [Arxiv 2021.10] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper](https://arxiv.org/pdf/2110.08223.pdf)]
 18. [Arxiv 2021.10] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper](https://arxiv.org/pdf/2110.04866.pdf)|[code](https://github.com/microsoft/project-azua)]
-19. [Arxiv 2021.10] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2110.14890.pdf)|[code](https://github.com/google-research/smore)]\
+19. [Arxiv 2021.10] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2110.14890.pdf)|[code](https://github.com/google-research/smore)]
 20. [Arxiv 2021.11] **On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features** \[[paper](https://arxiv.org/pdf/2111.12128.pdf)]
 21. [Arxiv 2021.12] **Siamese Attribute-missing Graph Auto-encoder** \[[paper](https://arxiv.org/pdf/2112.04842.pdf)]
 22. [Arxiv 2021.12] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
