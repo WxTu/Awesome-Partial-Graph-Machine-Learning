@@ -17,9 +17,11 @@
 ## Year 2023
 1. [AAAI 2023] **T2-GNN: Graph Neural Networks for Graphs with Incomplete Features and Structure via Teacher-Student Distillation** \[[paper](https://arxiv.org/pdf/2212.12738.pdf)]
 2. [AAAI 2023] **Data Imputation with Iterative Graph Reconstruction** \[[paper](https://arxiv.org/pdf/2212.02810.pdf)]
-3. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
-4. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
-5. [KBS 2022] **Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122012849?via%3Dihub)]
+3. [KBS 2022] **Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122012849?via%3Dihub)]
+4. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
+5. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
+6. [Arxiv 2023.01] **Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.08399.pdf)]
+7. 
 
 
 ## Year 2022
