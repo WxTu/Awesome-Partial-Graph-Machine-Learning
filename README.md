@@ -14,6 +14,9 @@
 # Awesome Partial Graph Representation Learning :blush:
 <p align = "justify">Graph representation learning (GRL) has been intensively studied and widely applied into various applications recently, such as social network, knowledge graph, recommender system, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for partial graph representation learning literature. </p>
 
+## Year 2023
+1. [AAAI 2023] **T2-GNN: Graph Neural Networks for Graphs with Incomplete Features and Structure via Teacher-Student Distillation** \[[paper](https://arxiv.org/pdf/2212.12738.pdf)]
+
 ## Year 2022
 1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper](https://ieeexplore.ieee.org/document/9229522)|[code](https://github.com/xuChenSJTU/SAT-master-online)]
 2. [IEEE TMM 2022] **Latent Heterogeneous Graph Network for Incomplete Multi-View Learning** \[[paper](https://arxiv.org/pdf/2208.13669.pdf)]
