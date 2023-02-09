@@ -16,6 +16,10 @@
 
 ## Year 2023
 1. [AAAI 2023] **T2-GNN: Graph Neural Networks for Graphs with Incomplete Features and Structure via Teacher-Student Distillation** \[[paper](https://arxiv.org/pdf/2212.12738.pdf)]
+2. [AAAI 2023] **Data Imputation with Iterative Graph Reconstruction** \[[paper](https://arxiv.org/pdf/2212.02810.pdf)]
+3. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
+4. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
+
 
 ## Year 2022
 1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper](https://ieeexplore.ieee.org/document/9229522)|[code](https://github.com/xuChenSJTU/SAT-master-online)]
@@ -71,6 +75,8 @@
 51. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
 52. [Arxiv 2022.10] **How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2210.08344.pdf)]
 53. [Arxiv 2022.11] **BatmanNet: Bi-branch Masked Graph Transformer Autoencoder for Molecular Representation** \[[paper](https://arxiv.org/pdf/2211.13979.pdf)]
+54. [Arxiv 2022.11] **Handling Missing Data via Max-Entropy Regularized Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2211.16771.pdf)]
+
 
 
 ## Year 2021
