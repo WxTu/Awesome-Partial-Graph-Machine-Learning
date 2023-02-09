@@ -1,9 +1,9 @@
-[stars-img]: https://img.shields.io/github/stars/WxTu/awesome-incomplete-graph-machine-learning?color=yellow
-[stars-url]: https://github.com/WxTu/awesome-incomplete-graph-machine-learning/stargazers
-[fork-img]: https://img.shields.io/github/forks/WxTu/awesome-incomplete-graph-machine-learning?color=lightblue&label=fork
-[fork-url]: https://github.com/WxTu/awesome-incomplete-graph-machine-learning/network/members
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=WxTu/awesome-incomplete-graph-machine-learning
-[adgc-url]: https://github.com/WxTu/awesome-incomplete-graph-machine-learning
+[stars-img]: https://img.shields.io/github/stars/WxTu/awesome-partial-graph-machine-learning?color=yellow
+[stars-url]: https://github.com/WxTu/awesome-partial-graph-machine-learning/stargazers
+[fork-img]: https://img.shields.io/github/forks/WxTu/awesome-partial-graph-machine-learning?color=lightblue&label=fork
+[fork-url]: https://github.com/WxTu/awesome-partial-graph-machine-learning/network/members
+[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=WxTu/awesome-partial-graph-machine-learning
+[adgc-url]: https://github.com/WxTu/awesome-partial-graph-machine-learning
 
 
 [![GitHub stars][stars-img]][stars-url]
