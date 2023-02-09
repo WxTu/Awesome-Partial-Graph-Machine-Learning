@@ -103,7 +103,7 @@
 18. [Arxiv 2021.10] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper](https://arxiv.org/pdf/2110.04866.pdf)|[code](https://github.com/microsoft/project-azua)]
 19. [Arxiv 2021.10] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2110.14890.pdf)|[code](https://github.com/google-research/smore)]\
 20. [Arxiv 2021.11] **On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features** \[[paper](https://arxiv.org/pdf/2111.12128.pdf)]
-21. [Arxiv 2021.12] **Siamese Attribute-missing Graph Auto-encoder** \[[paper](https://arxiv.org/pdf/2112.04842.pdf)][Arxiv 2021.12] 
+21. [Arxiv 2021.12] **Siamese Attribute-missing Graph Auto-encoder** \[[paper](https://arxiv.org/pdf/2112.04842.pdf)]
 22. [Arxiv 2021.12] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
 23. [Arxiv 2021.12] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper](https://arxiv.org/pdf/2112.00739.pdf)]
 24. [Arxiv 2021.12] **Two-view Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2112.09231.pdf)]
