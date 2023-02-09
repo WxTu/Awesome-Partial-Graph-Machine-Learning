@@ -19,6 +19,7 @@
 2. [AAAI 2023] **Data Imputation with Iterative Graph Reconstruction** \[[paper](https://arxiv.org/pdf/2212.02810.pdf)]
 3. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
 4. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
+5. [KBS 2022] **Dynamic graph convolutional recurrent imputation network for spatiotemporal traffic missing data** \[[paper]([https://ieeexplore.ieee.org/document/9229522](https://www.sciencedirect.com/science/article/abs/pii/S0950705122012849?via%3Dihub))]
 
 
 ## Year 2022
@@ -76,6 +77,7 @@
 52. [Arxiv 2022.10] **How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2210.08344.pdf)]
 53. [Arxiv 2022.11] **BatmanNet: Bi-branch Masked Graph Transformer Autoencoder for Molecular Representation** \[[paper](https://arxiv.org/pdf/2211.13979.pdf)]
 54. [Arxiv 2022.11] **Handling Missing Data via Max-Entropy Regularized Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2211.16771.pdf)]
+55. [Arxiv 2022.12] **Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation** \[[paper](https://arxiv.org/pdf/2212.11868.pdf)]
 
 
 
