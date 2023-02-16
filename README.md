@@ -24,6 +24,7 @@
 7. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
 8. [Arxiv 2023.01] **Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.08399.pdf)] 
 9. [Arxiv 2023.01] **HAT-GAE: Self-Supervised Graph Auto-encoders with Hierarchical Adaptive Masking and Trainable Corruption** \[[paper](https://arxiv.org/pdf/2301.12063.pdf)] 
+10. [Arxiv 2023.02] **Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network** \[[paper](https://arxiv.org/pdf/2302.07524.pdf)] 
 
 
 
