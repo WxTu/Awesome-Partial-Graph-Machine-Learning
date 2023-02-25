@@ -55,7 +55,7 @@
 24. [NeurIPS Workshop 2022] **Bi-channel Masked Graph Autoencoders for Spatially Resolved Single-cell Transcriptomics Data Imputation** \[[paper](https://openreview.net/pdf?id=LGFbhnR4U33)]
 25. [CIKM 2022] **I Know What You Do Not Know: Knowledge Graph Embedding via Co-distillation Learning** \[[paper](https://arxiv.org/pdf/2208.09828.pdf)]
 26. [CIKM 2022] **Models and Benchmarks for Representation Learning of Partially Observed Subgraphs** \[[paper](https://arxiv.org/pdf/2209.00508.pdf)]
-27. [CIKM 2022] **MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio** \[[paper](https://arxiv.org/pdf/2208.09905.pdf)]
+27. [CIKM 2022] **MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio** \[[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557395)]
 28. [CIKM 2022] **MentorGNN: Deriving Curriculum for Pre-Training GNNs** \[[paper](https://arxiv.org/pdf/2209.00508.pdf)]
 29. [EMNLP 2022] **Self-supervised Graph Masking Pre-training for Graph-to-Text Generation** \[[paper](https://arxiv.org/pdf/2210.10599.pdf)] 
 30. [COLING 2022] **The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection** \[[paper](https://arxiv.org/pdf/2210.00907.pdf)] 
