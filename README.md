@@ -84,9 +84,10 @@
 50. [Arxiv 2022.09] **DiP-GNN: Discriminative Pre-Training of Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2209.07499.pdf)]
 51. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
 52. [Arxiv 2022.10] **How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2210.08344.pdf)]
-53. [Arxiv 2022.11] **BatmanNet: Bi-branch Masked Graph Transformer Autoencoder for Molecular Representation** \[[paper](https://arxiv.org/pdf/2211.13979.pdf)]
-54. [Arxiv 2022.11] **Handling Missing Data via Max-Entropy Regularized Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2211.16771.pdf)]
-55. [Arxiv 2022.12] **Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation** \[[paper](https://arxiv.org/pdf/2212.11868.pdf)]
+53. [Arxiv 2022.10] **M3FGM: A Node Masking and Multi-granularity Message Passing-based Federated Graph Model for Spatial-temporal Data Prediction** \[[paper](https://arxiv.org/ftp/arxiv/papers/2210/2210.16193.pdf)]
+54. [Arxiv 2022.11] **BatmanNet: Bi-branch Masked Graph Transformer Autoencoder for Molecular Representation** \[[paper](https://arxiv.org/pdf/2211.13979.pdf)]
+55. [Arxiv 2022.11] **Handling Missing Data via Max-Entropy Regularized Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2211.16771.pdf)]
+56. [Arxiv 2022.12] **Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation** \[[paper](https://arxiv.org/pdf/2212.11868.pdf)]
 
 
 
