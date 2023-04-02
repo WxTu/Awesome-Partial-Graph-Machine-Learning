@@ -23,11 +23,12 @@
 6. [KBS 2023] **Dynamic Graph Convolutional Recurrent Imputation Network for Spatiotemporal Traffic Missing Data** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122012849?via%3Dihub)]
 7. [WSDM 2023] **S2GAE: Self-Supervised Graph Autoencoders are Generalizable Learners with Graph Masking** \[[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570404)]
 8. [Information Sciences 2023] **Ensembled Masked Graph Autoencoders for Link Anomaly Detection in A Road Network Considering Spatiotemporal Features** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522014670)]
-9. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
-10. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
-11. [Arxiv 2023.01] **Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.08399.pdf)] 
-12. [Arxiv 2023.01] **HAT-GAE: Self-Supervised Graph Auto-encoders with Hierarchical Adaptive Masking and Trainable Corruption** \[[paper](https://arxiv.org/pdf/2301.12063.pdf)] 
-13. [Arxiv 2023.02] **Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network** \[[paper](https://arxiv.org/pdf/2302.07524.pdf)] 
+9. [Methods 2023] **Multi-sample dual-decoder graph autoencoder** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1046202323000257)]
+10. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
+11. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
+12. [Arxiv 2023.01] **Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.08399.pdf)] 
+13. [Arxiv 2023.01] **HAT-GAE: Self-Supervised Graph Auto-encoders with Hierarchical Adaptive Masking and Trainable Corruption** \[[paper](https://arxiv.org/pdf/2301.12063.pdf)] 
+14. [Arxiv 2023.02] **Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network** \[[paper](https://arxiv.org/pdf/2302.07524.pdf)] 
 
 
 
