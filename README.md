@@ -91,6 +91,7 @@
 54. [Arxiv 2022.11] **BatmanNet: Bi-branch Masked Graph Transformer Autoencoder for Molecular Representation** \[[paper](https://arxiv.org/pdf/2211.13979.pdf)]
 55. [Arxiv 2022.11] **Handling Missing Data via Max-Entropy Regularized Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2211.16771.pdf)]
 56. [Arxiv 2022.12] **Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation** \[[paper](https://arxiv.org/pdf/2212.11868.pdf)]
+57. [Arxiv 2022.12] **Csat: Contrastive Sampling-Aggregating Transformer for Attribute-Missing Graph Learning** \[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4278482)]
 
 
 
