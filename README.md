@@ -31,6 +31,8 @@
 14. [Arxiv 2023.02] **Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network** \[[paper](https://arxiv.org/pdf/2302.07524.pdf)] 
 15. [Arxiv 2023.02] **Self-supervised Guided Hypergraph Feature Propagation for Semi-supervised Classification with Missing Node Features** \[[paper](https://arxiv.org/pdf/2302.08250.pdf)] 
 16. [Arxiv 2023.03] **Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction** \[[paper](https://arxiv.org/pdf/2303.16005.pdf)] 
+17. [Arxiv 2023.04] **RARE: Robust Masked Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2304.01507.pdf)] 
+
 
 
 
