@@ -38,6 +38,7 @@
 21. [Arxiv 2023.03] **Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction** \[[paper](https://arxiv.org/pdf/2303.16005.pdf)] 
 22. [Arxiv 2023.04] **RARE: Robust Masked Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2304.01507.pdf)] 
 23. [Arxiv 2023.05] **AmGCL: Feature Imputation of Attribute Missing Graph via Self-supervised Contrastive Learning** \[[paper](https://arxiv.org/pdf/2305.03741.pdf)]
+24. [Arxiv 2023.06] **Masked Contrastive Graph Representation Learning for Age Estimation** \[[paper](https://arxiv.org/pdf/2306.17798.pdf)]
 
 
 ## Year 2022
