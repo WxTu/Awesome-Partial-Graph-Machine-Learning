@@ -24,7 +24,7 @@
 7. [ICLR 2023] **Confidence-Based Feature Imputation for Graphs with Partially Known Features** \[[paper](https://openreview.net/pdf?id=YPKBIILy-Kt)]
 8. [ICLR 2023] **Learnable Topological Features for Phylogenetic Inference via Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2302.08840.pdf)]
 9. [KBS 2023] **Dynamic Graph Convolutional Recurrent Imputation Network for Spatiotemporal Traffic Missing Data** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122012849?via%3Dihub)]
-10. [KDD 2023] **What’s Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders** \[[paper]([https://dl.acm.org/doi/abs/10.1145/3539597.3570404](https://arxiv.org/pdf/2205.10053.pdf))]
+10. [KDD 2023] **What’s Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders** \[[paper](https://arxiv.org/pdf/2205.10053.pdf)]
 11. [WSDM 2023] **S2GAE: Self-Supervised Graph Autoencoders are Generalizable Learners with Graph Masking** \[[paper](https://dl.acm.org/doi/abs/10.1145/3539597.3570404)]
 12. [Information Sciences 2023] **Ensembled Masked Graph Autoencoders for Link Anomaly Detection in A Road Network Considering Spatiotemporal Features** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522014670)]
 13. [Information Sciences 2023] **HetReGAT-FC: Heterogeneous Residual Graph Attention Network via Feature Completion** \[[paper](https://www-sciencedirect-com-s.libyc.nudt.edu.cn/science/article/pii/S0020025523003316)]
