@@ -30,16 +30,17 @@
 13. [Information Sciences 2023] **HetReGAT-FC: Heterogeneous Residual Graph Attention Network via Feature Completion** \[[paper](https://www-sciencedirect-com-s.libyc.nudt.edu.cn/science/article/pii/S0020025523003316)]
 14. [Methods 2023] **Multi-sample dual-decoder graph autoencoder** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1046202323000257)]
 15. [SIGIR 2023] **Graph Masked Autoencoder for Sequential Recommendation** \[[paper](https://arxiv.org/pdf/2305.04619.pdf)]
-16. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
-17. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
-18. [Arxiv 2023.01] **Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.08399.pdf)] 
-19. [Arxiv 2023.01] **HAT-GAE: Self-Supervised Graph Auto-encoders with Hierarchical Adaptive Masking and Trainable Corruption** \[[paper](https://arxiv.org/pdf/2301.12063.pdf)] 
-20. [Arxiv 2023.02] **Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network** \[[paper](https://arxiv.org/pdf/2302.07524.pdf)] 
-21. [Arxiv 2023.02] **Self-supervised Guided Hypergraph Feature Propagation for Semi-supervised Classification with Missing Node Features** \[[paper](https://arxiv.org/pdf/2302.08250.pdf)] 
-22. [Arxiv 2023.03] **Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction** \[[paper](https://arxiv.org/pdf/2303.16005.pdf)] 
-23. [Arxiv 2023.04] **RARE: Robust Masked Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2304.01507.pdf)] 
-24. [Arxiv 2023.05] **AmGCL: Feature Imputation of Attribute Missing Graph via Self-supervised Contrastive Learning** \[[paper](https://arxiv.org/pdf/2305.03741.pdf)]
-25. [Arxiv 2023.06] **Masked Contrastive Graph Representation Learning for Age Estimation** \[[paper](https://arxiv.org/pdf/2306.17798.pdf)]
+16. [ICCV 2O23] **keletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training** \[[paper](https://arxiv.org/pdf/2307.08476.pdf)
+17. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
+18. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
+19. [Arxiv 2023.01] **Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.08399.pdf)] 
+20. [Arxiv 2023.01] **HAT-GAE: Self-Supervised Graph Auto-encoders with Hierarchical Adaptive Masking and Trainable Corruption** \[[paper](https://arxiv.org/pdf/2301.12063.pdf)] 
+21. [Arxiv 2023.02] **Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network** \[[paper](https://arxiv.org/pdf/2302.07524.pdf)] 
+22. [Arxiv 2023.02] **Self-supervised Guided Hypergraph Feature Propagation for Semi-supervised Classification with Missing Node Features** \[[paper](https://arxiv.org/pdf/2302.08250.pdf)] 
+23. [Arxiv 2023.03] **Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction** \[[paper](https://arxiv.org/pdf/2303.16005.pdf)] 
+24. [Arxiv 2023.04] **RARE: Robust Masked Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2304.01507.pdf)] 
+25. [Arxiv 2023.05] **AmGCL: Feature Imputation of Attribute Missing Graph via Self-supervised Contrastive Learning** \[[paper](https://arxiv.org/pdf/2305.03741.pdf)]
+26. [Arxiv 2023.06] **Masked Contrastive Graph Representation Learning for Age Estimation** \[[paper](https://arxiv.org/pdf/2306.17798.pdf)]
 
 
 ## Year 2022
