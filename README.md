@@ -53,6 +53,8 @@
 36. [Arxiv 2023.06] **Masked Contrastive Graph Representation Learning for Age Estimation** \[[paper](https://arxiv.org/pdf/2306.17798.pdf)]
 37. [Arxiv 2023.09] **Motif-aware Attribute Masking for Molecular Graph Pre-training** \[[paper](https://arxiv.org/pdf/2309.04589)]
 38. [Arxiv 2023.11] **Better Fair than Sorry: Adversarial Missing Data Imputation for Fair GNNs** \[[paper](https://arxiv.org/pdf/2311.01591.pdf)]
+39. [Arxiv 2023.11] **Cross-View Graph Consistency Learning for Invariant Graph Representations** \[[paper](https://arxiv.org/pdf/2311.11821.pdf)]
+
 
 
 ## Year 2022
