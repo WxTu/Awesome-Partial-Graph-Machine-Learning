@@ -54,6 +54,7 @@
 37. [Arxiv 2023.09] **Motif-aware Attribute Masking for Molecular Graph Pre-training** \[[paper](https://arxiv.org/pdf/2309.04589)]
 38. [Arxiv 2023.11] **Better Fair than Sorry: Adversarial Missing Data Imputation for Fair GNNs** \[[paper](https://arxiv.org/pdf/2311.01591.pdf)]
 39. [Arxiv 2023.11] **Cross-View Graph Consistency Learning for Invariant Graph Representations** \[[paper](https://arxiv.org/pdf/2311.11821.pdf)]
+40. [Arxiv 2023.11] **Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules** \[[paper](https://arxiv.org/pdf/2310.14753.pdf)|[code](https://github.com/syr-cn/SimSGT)]
 
 
 
