@@ -15,8 +15,9 @@
 <p align = "justify">Graph machine learning has been intensively studied and widely applied into various applications recently, such as social network, knowledge graph, recommender system, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for partial graph machine learning literature. </p>
 
 ## Year 2024
-1. [AAAI 2024] **GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking** \[[paper](https://arxiv.org/pdf/2312.05739.pdf)]
-2. [Arxiv 2024.1] **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
+1. [AAAI 2024] **GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking** \[[paper](https://arxiv.org/pdf/2312.05739.pdf)|[code](https://github.com/Newiz430/Bandana)]
+2. [WWW 2024] **Masked Graph Autoencoder with Non-discrete Bandwidths** \[[paper](https://arxiv.org/pdf/2402.03814.pdf)]
+3. [Arxiv 2024.1] **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
 
 ## Year 2023
 1. [AAAI 2023] **T2-GNN: Graph Neural Networks for Graphs with Incomplete Features and Structure via Teacher-Student Distillation** \[[paper](https://arxiv.org/pdf/2212.12738.pdf)]
