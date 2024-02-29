@@ -158,7 +158,7 @@
 53. [Arxiv 2022.07] **Masked Spatial-Spectral Autoencoders Are Excellent Hyperspectral Defenders** \[[paper](https://arxiv.org/pdf/2207.07803.pdf)]
 54. [Arxiv 2022.07] **Cybersecurity Entity Alignment via Masked Graph Attention Networks** \[[paper](https://arxiv.org/pdf/2207.01434.pdf)]
 55. [Arxiv 2022.08] **Heterogeneous Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2208.09957.pdf)]
-56. [Arxiv 2022.08] **Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspectiv** \[[paper](https://arxiv.org/pdf/2208.09979.pdf)]
+56. [Arxiv 2022.08] **Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspective** \[[paper](https://arxiv.org/pdf/2208.09979.pdf)]
 57. [Arxiv 2022.09] **DiP-GNN: Discriminative Pre-Training of Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2209.07499.pdf)]
 58. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
 59. [Arxiv 2022.10] **How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2210.08344.pdf)]
@@ -169,36 +169,34 @@
 64. [Openview 2022] **MGMA: Mesh Graph Masked Autoencoders for Self-supervised Learning on 3D Shape** \[[paper](https://openreview.net/pdf?id=C0oEBO4ZpOj)]
 
     
-
-
-
 ## Year 2021
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper](https://yangliang.github.io/pdf/www21.pdf)|[code](https://github.com/liangchundong/HGNN-AC)]
 2. [WWW 2021] **Mask-GVAE: Blind Denoising Graphs via Partition** \[[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449899?casa_token=aDTmh7sofQwAAAAA:P1gNVeUYMbuaWUd9WkAoCR6WGEE9Jp1sNw9eyffBc-V66EqeLYKw-jqJwzNAkb1ZXRzaXoS9JGsW36U)]
 3. [NeurIPS 2021] **Subgraph Federated Learning with Missing Neighbor Generation** \[[paper](https://openreview.net/pdf?id=SJHRf5nW93)]
 4. [NeurIPS 2021] **Multi-view Contrastive Graph Clustering** \[[paper](https://proceedings.neurips.cc/paper/2021/file/10c66082c124f8afe3df4886f5e516e0-Paper.pdf)|[code](https://github.com/panern/mcgc)]
 5. [NeurIPS 2021] **Learning Compact Representations of Neural Networks using DiscriminAtive Masking (DAM)** \[[paper](https://proceedings.neurips.cc/paper/2021/file/1cc8a8ea51cd0adddf5dab504a285915-Paper.pdf)]
-6. [FGCS 2021] **Graph Convolutional Networks for Graphs Containing Missing Features** \[[paper](https://www.sciencedirect.com/science/article/pii/S0167739X20330405)|[code](https://github.com/marblet/GCNmf)]
-7. [FGCS 2021] **Efficient Search Over Incomplete Knowledge Graphs in Binarized Embedding Space** \[[paper](https://www-sciencedirect-com-s.nudtproxy.yitlink.com/science/article/pii/S0167739X21001217)]
-8. [AAAI Workshop 2021] **Context-Enhanced Entity and Relation Embedding for Knowledge Graph Completion** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17932)]
-9. [KDD 2021] **Relational Message Passing for Knowledge Graph Completion** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467247)]
-10. [KDD Workshop 2021] **On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs** \[[paper](https://arxiv.org/pdf/2107.01495.pdf)|[code](https://github.com/zjzijielu/gnn-exp)]
-11. [CIKM 2021] **Inductive Matrix Completion Using Graph Autoencoder** \[[paper](https://dl.acm.org/doi/10.1145/3459637.3482266)|[code](https://github.com/swtheing/IMC-GAE)]
-12. [ICASSP 2021] **Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation** \[[paper](https://ieeexplore.ieee.org/document/9414016)]
-13. [IEEE TSP 2021] **Community Detection and Matrix Completion With Social and Item Similarity Graphs** \[[paper](https://ieeexplore.ieee.org/document/9328183)|[code](https://github.com/bayrameda/MrAP)]
-14. [Nature Communications 2021] **Masked Graph Modeling for Molecule Generation** \[[paper](https://www.nature.com/articles/s41467-021-23415-2)]
-15. [Arxiv 2021.02] **Wasserstein Diffusion on Graphs with Missing Attributes** \[[paper](https://arxiv.org/pdf/2102.03450.pdf)]
-16. [Arxiv 2021.06] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2003.10130v2.pdf)]
-17. [Arxiv 2021.06] **Graph Context Encoder: Graph Feature Inpainting for Graph Generation and Self-supervised Pretraining** \[[paper](https://arxiv.org/pdf/2106.10124.pdf)]
-18. [Arxiv 2021.10] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper](https://arxiv.org/pdf/2110.08223.pdf)]
-19. [Arxiv 2021.10] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper](https://arxiv.org/pdf/2110.04866.pdf)|[code](https://github.com/microsoft/project-azua)]
-20. [Arxiv 2021.10] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2110.14890.pdf)|[code](https://github.com/google-research/smore)]
-21. [Arxiv 2021.11] **On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features** \[[paper](https://arxiv.org/pdf/2111.12128.pdf)]
-22. [Arxiv 2021.12] **Siamese Attribute-missing Graph Auto-encoder** \[[paper](https://arxiv.org/pdf/2112.04842.pdf)]
-23. [Arxiv 2021.12] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
-24. [Arxiv 2021.12] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper](https://arxiv.org/pdf/2112.00739.pdf)]
-25. [Arxiv 2021.12] **Two-view Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2112.09231.pdf)]
-26. [Arxiv 2021.12] **Incomplete Knowledge Graph Alignment** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
+6. [NeurIPS 2021] **INDIGO: GNN-Based Inductive Knowledge Graph Completion Using Pair-Wise Encoding** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/0fd600c953cde8121262e322ef09f70e-Paper.pdf)]
+7. [FGCS 2021] **Graph Convolutional Networks for Graphs Containing Missing Features** \[[paper](https://www.sciencedirect.com/science/article/pii/S0167739X20330405)|[code](https://github.com/marblet/GCNmf)]
+8. [FGCS 2021] **Efficient Search Over Incomplete Knowledge Graphs in Binarized Embedding Space** \[[paper](https://www-sciencedirect-com-s.nudtproxy.yitlink.com/science/article/pii/S0167739X21001217)]
+9. [AAAI Workshop 2021] **Context-Enhanced Entity and Relation Embedding for Knowledge Graph Completion** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17932)]
+10. [KDD 2021] **Relational Message Passing for Knowledge Graph Completion** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467247)]
+11. [KDD Workshop 2021] **On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs** \[[paper](https://arxiv.org/pdf/2107.01495.pdf)|[code](https://github.com/zjzijielu/gnn-exp)]
+12. [CIKM 2021] **Inductive Matrix Completion Using Graph Autoencoder** \[[paper](https://dl.acm.org/doi/10.1145/3459637.3482266)|[code](https://github.com/swtheing/IMC-GAE)]
+13. [ICASSP 2021] **Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation** \[[paper](https://ieeexplore.ieee.org/document/9414016)]
+14. [IEEE TSP 2021] **Community Detection and Matrix Completion With Social and Item Similarity Graphs** \[[paper](https://ieeexplore.ieee.org/document/9328183)|[code](https://github.com/bayrameda/MrAP)]
+15. [Nature Communications 2021] **Masked Graph Modeling for Molecule Generation** \[[paper](https://www.nature.com/articles/s41467-021-23415-2)]
+16. [Arxiv 2021.02] **Wasserstein Diffusion on Graphs with Missing Attributes** \[[paper](https://arxiv.org/pdf/2102.03450.pdf)]
+17. [Arxiv 2021.06] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2003.10130v2.pdf)]
+18. [Arxiv 2021.06] **Graph Context Encoder: Graph Feature Inpainting for Graph Generation and Self-supervised Pretraining** \[[paper](https://arxiv.org/pdf/2106.10124.pdf)]
+19. [Arxiv 2021.10] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper](https://arxiv.org/pdf/2110.08223.pdf)]
+20. [Arxiv 2021.10] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper](https://arxiv.org/pdf/2110.04866.pdf)|[code](https://github.com/microsoft/project-azua)]
+21. [Arxiv 2021.10] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2110.14890.pdf)|[code](https://github.com/google-research/smore)]
+22. [Arxiv 2021.11] **On the Unreasonable Effectiveness of Feature Propagation in Learning on Graphs with Missing Node Features** \[[paper](https://arxiv.org/pdf/2111.12128.pdf)]
+23. [Arxiv 2021.12] **Siamese Attribute-missing Graph Auto-encoder** \[[paper](https://arxiv.org/pdf/2112.04842.pdf)]
+24. [Arxiv 2021.12] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
+25. [Arxiv 2021.12] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper](https://arxiv.org/pdf/2112.00739.pdf)]
+26. [Arxiv 2021.12] **Two-view Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2112.09231.pdf)]
+27. [Arxiv 2021.12] **Incomplete Knowledge Graph Alignment** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
 
 
 
@@ -238,7 +236,7 @@
 
 
 
-## Related awesome
+## Related Awesome
 * [awesome-deep-graph-clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
 * [awesome-graph-representation-learning](https://github.com/zlpure/awesome-graph-representation-learning)
 * [awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning)
@@ -247,4 +245,4 @@
 * [awesome-masked-autoencoders](https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders)
 
 ## Contact
-If interested, you are welcome to contribute this repo by contracting wenxuantu@163.com. 
+If interested, you are welcome to contribute to this repo by contacting wenxuantu@163.com. 
