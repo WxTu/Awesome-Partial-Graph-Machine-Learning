@@ -17,7 +17,8 @@
 ## Year 2024
 1. [AAAI 2024] **GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking** \[[paper](https://arxiv.org/pdf/2312.05739.pdf)]
 2. [WWW 2024] **Masked Graph Autoencoder with Non-discrete Bandwidths** \[[paper](https://arxiv.org/pdf/2402.03814.pdf)|[code](https://github.com/Newiz430/Bandana)]
-3. [Arxiv 2024.1] **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
+3. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
+4. [Arxiv 2024.1] **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
 
 ## Year 2023
 1. [AAAI 2023] **T2-GNN: Graph Neural Networks for Graphs with Incomplete Features and Structure via Teacher-Student Distillation** \[[paper](https://arxiv.org/pdf/2212.12738.pdf)]
