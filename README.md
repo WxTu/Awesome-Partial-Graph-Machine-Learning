@@ -85,6 +85,7 @@
 49. [Arxiv 2023.11] **Generative and Contrastive Paradigms Are Complementary for Graph Self-Supervised Learning** \[[paper](https://arxiv.org/pdf/2310.15523.pdf)]
 50. [Arxiv 2023.11] **Leveraging Graph Diffusion Models for Network Refinement Tasks** \[[paper](https://arxiv.org/pdf/2311.17856.pdf)]
 51. [Arxiv 2023.11] **Self-supervised Heterogeneous Graph Variational Autoencoders** \[[paper](https://arxiv.org/pdf/2311.07929.pdf)]
+52. 
 
 
 
