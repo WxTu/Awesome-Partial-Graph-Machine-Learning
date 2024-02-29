@@ -191,7 +191,8 @@
 5. [EMNLP 2020] **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion** \[[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)|[code](https://github.com/JiapengWu/TeMP)]
 6. [EMNLP 2020] **Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer** \[[paper](https://aclanthology.org/2020.findings-emnlp.290.pdf)|[code](https://github.com/stasl0217/KEnS)]
 7. [EMNLP 2020] **MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning** \[[paper](https://aclanthology.org/2020.findings-emnlp.351.pdf)]
-8. [Arxiv 2020.01] **Node Masking: Making Graph Neural Networks Generalize and Scale Better** \[[paper](https://arxiv.org/pdf/2001.07524.pdf)]
+8. [KDD 2020] **GPT-GNN: Generative Pre-Training of Graph Neural Networks** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403237)]
+9. [Arxiv 2020.01] **Node Masking: Making Graph Neural Networks Generalize and Scale Better** \[[paper](https://arxiv.org/pdf/2001.07524.pdf)]
 
 
 
