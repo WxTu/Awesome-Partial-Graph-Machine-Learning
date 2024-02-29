@@ -15,10 +15,11 @@
 <p align = "justify">Graph machine learning has been intensively studied and widely applied into various applications recently, such as social network, knowledge graph, recommender system, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for partial graph machine learning literature. </p>
 
 ## Year 2024
-1. [AAAI 2024] **GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking** \[[paper](https://arxiv.org/pdf/2312.05739.pdf)]
-2. [WWW 2024] **Masked Graph Autoencoder with Non-discrete Bandwidths** \[[paper](https://arxiv.org/pdf/2402.03814.pdf)|[code](https://github.com/Newiz430/Bandana)]
-3. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
-4. [Arxiv 2024.1] **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
+1. [AAAI 2024] **Incomplete Contrastive Multi-View Clustering with High-Confidence Guiding** \[[paper](https://arxiv.org/pdf/2312.05739.pdf)]
+2. [AAAI 2024] **GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking** \[[paper](https://arxiv.org/pdf/2312.08697.pdf)]
+3. [WWW 2024] **Masked Graph Autoencoder with Non-discrete Bandwidths** \[[paper](https://arxiv.org/pdf/2402.03814.pdf)|[code](https://github.com/Newiz430/Bandana)]
+4. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
+5. [Arxiv 2024.1] **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
 
 ## Year 2023
 1. [AAAI 2023] **T2-GNN: Graph Neural Networks for Graphs with Incomplete Features and Structure via Teacher-Student Distillation** \[[paper](https://arxiv.org/pdf/2212.12738.pdf)]
@@ -63,6 +64,7 @@
 40. [Arxiv 2023.11] **Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules** \[[paper](https://arxiv.org/pdf/2310.14753.pdf)|[code](https://github.com/syr-cn/SimSGT)]
 41. [Arxiv 2023.11] **Generative and Contrastive Paradigms Are Complementary for Graph Self-Supervised Learning** \[[paper](https://arxiv.org/pdf/2310.15523.pdf)]
 42. [Arxiv 2023.11] **Leveraging Graph Diffusion Models for Network Refinement Tasks** \[[paper](https://arxiv.org/pdf/2311.17856.pdf)]
+43. [Arxiv 2023.11] **Self-supervised Heterogeneous Graph Variational Autoencoders** \[[paper](https://arxiv.org/pdf/2311.07929.pdf)]
 
 
 
