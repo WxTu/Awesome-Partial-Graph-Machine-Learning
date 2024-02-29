@@ -99,7 +99,7 @@
 15. [WWW 2022] **From Discrimination to Generation: Knowledge Graph Completion with Generative Transformer** \[[paper](https://arxiv.org/pdf/2202.02113.pdf)]
 16. [WWW Workshop 2022] **Deep Partial Multiplex Network Embedding** \[[paper](https://arxiv.org/pdf/2203.02656.pdf)]
 17. [SIGIR 2022] **Re-thinking Knowledge Graph Completion Evaluation from an Information Retrieval Perspective** \[[paper](https://arxiv.org/pdf/2205.04105.pdf)]
-18. [SIGIR 2022] **Neighbour interaction based click-through rate prediction via graph-masked transformer** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3532031?casa_token=3jLGVIlz1kgAAAAA:Rd77j_DUWuiOK2JiZzBNbCuqcfy1DhyC4kLZA0GOxyx6myXTZgTqEzTBktdxJikZdiolX_0ZIfrC_Q)]
+18. [SIGIR 2022] **Neighbour Interaction Based Click-through Rate Prediction via Graph-Masked Transformer** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3532031?casa_token=3jLGVIlz1kgAAAAA:Rd77j_DUWuiOK2JiZzBNbCuqcfy1DhyC4kLZA0GOxyx6myXTZgTqEzTBktdxJikZdiolX_0ZIfrC_Q)]
 19. [PR 2022] **Incomplete Multiview Nonnegative Representation Learning with Multiple Graphs** \[[paper](https://www.sciencedirect.com/science/article/pii/S0031320321005884?casa_token=gw2E5xd2I78AAAAA:K8mBWuiiuB7PptbiBRRmOO0yoEJBttFvjYaHC61caGoKWjyXVq2ggw5WNKoKcvqW3_cVe2S3EQ)]
 20. [ICLR 2022] **Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods** \[[paper](https://arxiv.org/pdf/2111.04840.pdf)|[code](https://github.com/amazon-research/gnn-tail-generalization)]
 21. [ICLR 2022] **Neural Methods for Logical Reasoning Over Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2209.14464.pdf)]
