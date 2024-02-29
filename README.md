@@ -41,7 +41,7 @@
 5. [AAAI 2023] **Data Imputation with Iterative Graph Reconstruction** \[[paper](https://arxiv.org/pdf/2212.02810.pdf)]
 6. [Remote Sensing 2023] **Masked Graph Convolutional Network for Small Sample Classification of Hyperspectral Images** \[[paper](https://www.mdpi.com/2072-4292/15/7/1869)]
 7. [BIB 2023] **SMG: Self-Supervised Masked Graph Learning for Cancer Gene Identification** \[[paper](https://academic.oup.com/bib/article/24/6/bbad406/7382100)]
-8. [WWW 2023] **SeeGera: Self-supervised Semi-implicit Graph Variational Auto-encoders with Masking** \[[paper](https://arxiv.org/pdf/2301.12458.pdf)]
+8. [ICEBE 2023] **Motif Masking-based Self-Supervised Learning For Molecule Graph Representation Learning** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10356186&casa_token=NbwhSvUZDJIAAAAA:Hv59Qz2JEnsLTzPBvKBSuYpFt9bhuIwdo-pPxYY4-pQ29XQ_rtCS1eZsQiiZMV1Xdg0id17mJJyR&tag=1)]
 9. [WWW 2023] **SeeGera: Self-supervised Semi-implicit Graph Variational Auto-encoders with Masking** \[[paper](https://arxiv.org/pdf/2301.12458.pdf)]
 10. [WWW 2023] **GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner** \[[paper](https://arxiv.org/pdf/2304.04779.pdf)]
 11. [WWW 2023] **Automated Spatio-Temporal graph contrastive learning** \[[paper](https://arxiv.org/pdf/2305.03920.pdf)]
@@ -85,10 +85,6 @@
 49. [Arxiv 2023.11] **Generative and Contrastive Paradigms Are Complementary for Graph Self-Supervised Learning** \[[paper](https://arxiv.org/pdf/2310.15523.pdf)]
 50. [Arxiv 2023.11] **Leveraging Graph Diffusion Models for Network Refinement Tasks** \[[paper](https://arxiv.org/pdf/2311.17856.pdf)]
 51. [Arxiv 2023.11] **Self-supervised Heterogeneous Graph Variational Autoencoders** \[[paper](https://arxiv.org/pdf/2311.07929.pdf)]
-52. 
-
-
-
 
 ## Year 2022
 1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper](https://ieeexplore.ieee.org/document/9229522)|[code](https://github.com/xuChenSJTU/SAT-master-online)]
@@ -153,6 +149,8 @@
 60. [Arxiv 2022.11] **Handling Missing Data via Max-Entropy Regularized Graph Autoencoder** \[[paper](https://arxiv.org/pdf/2211.16771.pdf)]
 61. [Arxiv 2022.12] **Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation** \[[paper](https://arxiv.org/pdf/2212.11868.pdf)]
 62. [Arxiv 2022.12] **Csat: Contrastive Sampling-Aggregating Transformer for Attribute-Missing Graph Learning** \[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4278482)]
+63. [Openview 2022] **MGMA: Mesh Graph Masked Autoencoders for Self-supervised Learning on 3D Shape** \[[paper](https://openreview.net/pdf?id=C0oEBO4ZpOj)]
+    
 
 
 
