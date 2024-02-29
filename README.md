@@ -56,7 +56,7 @@
 23. [ICCV 2023] **SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training** \[[paper](https://arxiv.org/pdf/2307.08476.pdf)]
 24. [CIKM 2023] **GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction** \[[paper](https://arxiv.org/pdf/2308.09663)]
 25. [USENIX Security 2024] **MAGIC: Detecting Advanced Persistent Threats via Masked Graph Representation Learning** \[[paper](https://arxiv.org/pdf/2310.09831.pdf)]
-26. [NeurIPS 2023] **Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules** \[[paper](https://neurips.cc/virtual/2023/poster/70903)]
+26. [NeurIPS 2023] **Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules** \[[paper](https://neurips.cc/virtual/2023/poster/70903)|[code](https://github.com/syr-cn/SimSGT)]
 27. [PKDD 2023] **Contrastive Learning-based Imputation-Prediction Networks for In-hospital Mortality Risk Modeling using EHRs** \[[paper](https://arxiv.org/pdf/2308.09896.pdf)]
 28. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
 29. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
@@ -69,10 +69,9 @@
 36. [Arxiv 2023.09] **Motif-aware Attribute Masking for Molecular Graph Pre-training** \[[paper](https://arxiv.org/pdf/2309.04589)]
 37. [Arxiv 2023.11] **Better Fair than Sorry: Adversarial Missing Data Imputation for Fair GNNs** \[[paper](https://arxiv.org/pdf/2311.01591.pdf)]
 38. [Arxiv 2023.11] **Cross-View Graph Consistency Learning for Invariant Graph Representations** \[[paper](https://arxiv.org/pdf/2311.11821.pdf)]
-39. [Arxiv 2023.11] **Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules** \[[paper](https://arxiv.org/pdf/2310.14753.pdf)|[code](https://github.com/syr-cn/SimSGT)]
-40. [Arxiv 2023.11] **Generative and Contrastive Paradigms Are Complementary for Graph Self-Supervised Learning** \[[paper](https://arxiv.org/pdf/2310.15523.pdf)]
-41. [Arxiv 2023.11] **Leveraging Graph Diffusion Models for Network Refinement Tasks** \[[paper](https://arxiv.org/pdf/2311.17856.pdf)]
-42. [Arxiv 2023.11] **Self-supervised Heterogeneous Graph Variational Autoencoders** \[[paper](https://arxiv.org/pdf/2311.07929.pdf)]
+39. [Arxiv 2023.11] **Generative and Contrastive Paradigms Are Complementary for Graph Self-Supervised Learning** \[[paper](https://arxiv.org/pdf/2310.15523.pdf)]
+40. [Arxiv 2023.11] **Leveraging Graph Diffusion Models for Network Refinement Tasks** \[[paper](https://arxiv.org/pdf/2311.17856.pdf)]
+41. [Arxiv 2023.11] **Self-supervised Heterogeneous Graph Variational Autoencoders** \[[paper](https://arxiv.org/pdf/2311.07929.pdf)]
 
 
 
