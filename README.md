@@ -183,8 +183,9 @@
 ## Year 2019
 1. [KBS 2019] **Adversarial Learning for Multi-view Network Embedding on Incomplete Graphs** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119302278?via%3Dihub)]
 2. [ICDM 2019] **Learning to Hash for Efficient Search over Incomplete Knowledge Graphs** \[[paper](https://ieeexplore.ieee.org/document/8970688)|[code](https://github.com/seu-kse/HashKG)]
-3. [K-CAP 2019] **Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/1910.00084.pdf)|[code](https://github.com/gengchenmai/Attention_GraphQA)]
-4. [Arxiv 2019.07] **Node Attribute Generation on Graphs** \[[paper](https://arxiv.org/pdf/1907.09708.pdf)]
+3. [IJCAI 2019] **Masked Graph Convolutional Network** \[[paper](https://www.ijcai.org/Proceedings/2019/0565.pdf)]
+4. [K-CAP 2019] **Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/1910.00084.pdf)|[code](https://github.com/gengchenmai/Attention_GraphQA)]
+5. [Arxiv 2019.07] **Node Attribute Generation on Graphs** \[[paper](https://arxiv.org/pdf/1907.09708.pdf)]
 
 ## Year 2018
 1. [ECCV Workshop 2018] **Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization** \[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-11018-5_47)|[code](https://github.com/DarrenZZhang/IMC_GRMF)]
