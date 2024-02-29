@@ -15,11 +15,18 @@
 <p align = "justify">Graph machine learning has been intensively studied and widely applied into various applications recently, such as social network, knowledge graph, recommender system, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for partial graph machine learning literature. </p>
 
 ## Year 2024
-1. [AAAI 2024] **Incomplete Contrastive Multi-View Clustering with High-Confidence Guiding** \[[paper](https://arxiv.org/pdf/2312.05739.pdf)]
-2. [AAAI 2024] **GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking** \[[paper](https://arxiv.org/pdf/2312.08697.pdf)]
-3. [WWW 2024] **Masked Graph Autoencoder with Non-discrete Bandwidths** \[[paper](https://arxiv.org/pdf/2402.03814.pdf)|[code](https://github.com/Newiz430/Bandana)]
-4. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
-5. [Arxiv 2024.1] **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
+1. [IEEE TPAMI 2024] **Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation** \[[paper](https://arxiv.org/pdf/2401.07721.pdf)]
+2. [AAAI 2024] **Incomplete Contrastive Multi-View Clustering with High-Confidence Guiding** \[[paper](https://arxiv.org/pdf/2312.05739.pdf)]
+3. [AAAI 2024] **GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking** \[[paper](https://arxiv.org/pdf/2312.08697.pdf)]
+4. [AAAI 2024] **Rethinking Graph Masked Autoencoders through Alignment and Uniformity** \[[paper](https://arxiv.org/pdf/2402.07225.pdf)]
+5. [WWW 2024] **Masked Graph Autoencoder with Non-discrete Bandwidths** \[[paper](https://arxiv.org/pdf/2402.03814.pdf)|[code](https://github.com/Newiz430/Bandana)]
+6. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
+7. [Arxiv 2024.01] **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
+8. [Arxiv 2024.01] **Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2401.12997.pdf)]
+9. [Arxiv 2024.02] **Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling** \[[paper](https://arxiv.org/pdf/2402.10634.pdf)]
+10. [Arxiv 2024.02] **Masked Attention is All You Need for Graphs** \[[paper](https://arxiv.org/pdf/2402.10793.pdf)]
+11. [Arxiv 2024.02] **UGMAE: A Unified Framework for Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2402.08023.pdf)]
+12. 
 
 ## Year 2023
 1. [AAAI 2023] **T2-GNN: Graph Neural Networks for Graphs with Incomplete Features and Structure via Teacher-Student Distillation** \[[paper](https://arxiv.org/pdf/2212.12738.pdf)]
