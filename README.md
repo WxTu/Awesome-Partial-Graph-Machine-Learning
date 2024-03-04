@@ -210,7 +210,8 @@
 7. [EMNLP 2020] **MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning** \[[paper](https://aclanthology.org/2020.findings-emnlp.351.pdf)]
 8. [KDD 2020] **GPT-GNN: Generative Pre-Training of Graph Neural Networks** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403237)]
 9. [KBS 2020] **GRL: Knowledge Graph Completion With GAN-based Reinforcement Learning** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120305505)]
-10. [Arxiv 2020.01] **Node Masking: Making Graph Neural Networks Generalize and Scale Better** \[[paper](https://arxiv.org/pdf/2001.07524.pdf)]
+10. [IEEE TSIPN 2020] **Efficient Graph Learning From Noisy and Incomplete Data** \[[paper](https://ieeexplore.ieee.org/abstract/document/8950408?casa_token=qCR3mAITbikAAAAA:eYHK0qkbrXjxXWNkyC6MUe0IB2TQfw88R8M6xNxhoislgzq5vDZ7j3yzozskGffritYW1bi-hayN)]
+11. [Arxiv 2020.01] **Node Masking: Making Graph Neural Networks Generalize and Scale Better** \[[paper](https://arxiv.org/pdf/2001.07524.pdf)]
 
 
 
