@@ -16,11 +16,11 @@
 
 ## Year 2024
 ### Journal
-1. [TPAMI 2024] **Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation** \[[paper](https://arxiv.org/pdf/2401.07721.pdf)]
+1. [TPAMI 2024] **Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation** \[[paper](https://ieeexplore.ieee.org/abstract/document/10401948?casa_token=N7jEfNbRA3sAAAAA:o2C5SnwLxgw8Qcv-DCkpQ2rYwUJ2cuuUoJHCmWkugnYmEanFPd4eyAHLUonh2Ds2nxEdOT7ELLsJbw)]
 2. [TNNLS 2024] **Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network** \[[paper](https://ieeexplore.ieee.org/document/10398247)]
 3. [TNNLS 2024] **Multilevel Contrastive Graph Masked Autoencoders for Unsupervised Graph-Structure Learning** \[[paper](https://ieeexplore.ieee.org/document/10423234)]
 4. [TNNLS 2024] **Redundancy Is Not What You Need: An Embedding Fusion Graph Auto-Encoder for Self-Supervised Graph Representation Learning** \[[paper](https://ieeexplore.ieee.org/document/10418497)]
-5. [IEEE TNNLS 2024] **Masked Spatial-Spectral Autoencoders Are Excellent Hyperspectral Defenders** \[[paper](https://arxiv.org/pdf/2207.07803.pdf)]
+5. [IEEE TNNLS 2024] **Masked Spatial-Spectral Autoencoders Are Excellent Hyperspectral Defenders** \[[paper](https://ieeexplore.ieee.org/abstract/document/10378742?casa_token=llytDpBMhK8AAAAA:FhBhd09VDcym5CFJE-vpnKZ9h9z6OKJyiTy1nBj8uMm-6FMQJ3huWoSpswNv8VD4-F6owpzyT0N_jQ)]
 6. [KBS 2024] **HeGAE-AC: Heterogeneous Graph Auto-encoder for Attribute Completion** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000716)]
 7. [KBS 2024] **Attribute Imputation Autoencoders for Attribute-Missing Graphs** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124002181)]
 8. [Information Fusion 2024] **Multi-view Graph Imputation Network** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408)]
