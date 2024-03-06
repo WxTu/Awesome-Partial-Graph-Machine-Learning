@@ -25,7 +25,7 @@
 7. [KBS 2024] **Attribute Imputation Autoencoders for Attribute-Missing Graphs** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124002181)]
 8. [Information Fusion 2024] **Multi-view Graph Imputation Network** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408)]
 9. [ACM TKDD 2024] **ProtoMGAE: Prototype-Aware Masked Graph Auto-Encoder for Graph Representation Learning** \[[paper](https://dl.acm.org/doi/abs/10.1145/3649143)]
-10. [BFG 2024] **GAM-MDR: Probing MiRNA–drug Resistance Using A Graph Autoencoder Based on Random Path Masking** \[[paper](https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae005/7612636)]
+10. [BFG 2024] **GAM-MDR: Probing MiRNA–Drug Resistance Using A Graph Autoencoder Based on Random Path Masking** \[[paper](https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae005/7612636)]
 
 ### Conference
 1. [WWW 2024] **Masked Graph Autoencoder with Non-Discrete Bandwidths** \[[paper](https://arxiv.org/pdf/2402.03814.pdf)|[code](https://github.com/Newiz430/Bandana)]
