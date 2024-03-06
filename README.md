@@ -84,7 +84,7 @@
 14. [AAAI 2023] **Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspective** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/26774)]
 15. [AAAI 2023] **Handling Missing Data via Max-Entropy Regularized Graph Autoencoder** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25928)]
 16. [KDD 2023] **What’s Behind the Mask: Understanding Masked Graph Modeling for Graph Autoencoders** \[[paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599546?casa_token=Rsa9xVDADn0AAAAA:ok6tJvcCiu-8Yxt9DbtcgUINQcvgbHmOFZC6g7pq8jAEn9NO6Y5crEFd8YbcOhJqBKrdA1zRucKvpoA)]
-17. [SIGIR 2023] **Graph Masked Autoencoder for Sequential Recommendation** \[[paper](https://arxiv.org/pdf/2305.04619.pdf)]
+17. [SIGIR 2023] **Graph Masked Autoencoder for Sequential Recommendation** \[[paper](https://dl.acm.org/doi/10.1145/3539618.3591692)]
 18. [SIGIR 2023] **Distillation-enhanced Graph Masked Autoencoders for Bundle Recommendation** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3539618.3591666)]
 19. [VLDB 2023] **Missing Value Imputation for Multi-attribute Sensor Data Streams via Message Propagation** \[[paper](https://dl.acm.org/doi/pdf/10.14778/3632093.3632100?casa_token=8fZnZJcr-A8AAAAA:1H6Gh8tYuR2N9PxtBUfHHAoFkX2hyW57_z6yyRcrvOuYSLYigjZkMEgYTMG4SptwIhpwGTuE1_oYRw)]
 20. [ICCV 2023] **SkeletonMAE: Graph-based Masked Autoencoder for Skeleton Sequence Pre-training** \[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yan_SkeletonMAE_Graph-based_Masked_Autoencoder_for_Skeleton_Sequence_Pre-training_ICCV_2023_paper.html)]
@@ -144,7 +144,6 @@
 2. [ACL 2022] **Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment** \[[paper](https://aclanthology.org/2022.acl-long.36/)]
 3. [ACL 2022] **CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion** \[[paper](https://aclanthology.org/2022.acl-long.205/)] 
 4. [KDD 2022] **GraphMAE: Self-Supervised Masked Graph Autoencoders** \[[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539321)] 
-5. [KDD 2022] **Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling** \[[paper](https://arxiv.org/pdf/2209.07084.pdf)] 
 6. [KDD 2022] **Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries** \[[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539472)]
 7. [KDD 2022] **CoRGi: Content-Rich Graph Neural Networks with Attention** \[[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539306?casa_token=IZk8kZf-4b0AAAAA:Vs3MudgWR_dlflZEHxFmgIgNIOCXY0TkqzHTPp9VUmgmtpkrCW3I3W7BpGd-FqEEe1GgEVAOoNMGf4M)|[code](https://github.com/microsoft/project-azua)]
 8. [KDD 2022] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539405)|[code](https://github.com/google-research/smore)]
@@ -167,7 +166,7 @@
 25. [NeurIPS 2022] **How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/adb2075b6dd31cb18dfa727240d2887e-Abstract-Conference.html)]
 26. [NeurIPS Workshop 2022] **Bi-channel Masked Graph Autoencoders for Spatially Resolved Single-cell Transcriptomics Data Imputation** \[[paper](https://openreview.net/pdf?id=LGFbhnR4U33)]
 27. [CIKM 2022] **I Know What You Do Not Know: Knowledge Graph Embedding via Co-distillation Learning** \[[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557355?casa_token=M-cAkonJEaoAAAAA:7SAG6RaotBX3610Ose7aaEw_3iIF7STlhTeqcLkhzTbuFwGf45U8usalBCnkhvQ7eZmsYyC9GA_SNMI)]
-28. [CIKM 2022] **Models and Benchmarks for Representation Learning of Partially Observed Subgraphs** \[[paper](https://arxiv.org/pdf/2209.00508.pdf)]
+28. [CIKM 2022] **Models and Benchmarks for Representation Learning of Partially Observed Subgraphs** \[[paper](https://dl.acm.org/doi/10.1145/3511808.3557647)]
 29. [CIKM 2022] **MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio** \[[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557647?casa_token=rU7dkyRZAD4AAAAA:EfOPk4bL0rtK-Yxt9o2mdgLL5zSjYaqijUFYShPTM-tHUzPPeKS5hIfxloNNL2NE3AYqJaUmfw8BmvI)]
 30. [CIKM 2022] **MentorGNN: Deriving Curriculum for Pre-Training GNNs** \[[paper](https://dl.acm.org/doi/10.1145/3511808.3557393)]
 31. [CIKM 2022] **On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs** \[[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557661?casa_token=eJXMxuzM7GkAAAAA:gEVNY3biZk4aR6TUGli5ZqWoJP737kXk34h3Ol9PpcOCbX1Q5yFW2LU4PJsoUNHZNN11hxb2nB7AA8Y)]
@@ -187,8 +186,9 @@
 7. [Arxiv 2022.06] **Schema-Guided Event Graph Completion** \[[paper](https://arxiv.org/pdf/2206.02921.pdf)]
 8. [Arxiv 2022.07] **Cybersecurity Entity Alignment via Masked Graph Attention Networks** \[[paper](https://arxiv.org/pdf/2207.01434.pdf)]
 9. [Arxiv 2022.09] **DiP-GNN: Discriminative Pre-Training of Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2209.07499.pdf)]
-10. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
-11. [Openview 2022] **MGMA: Mesh Graph Masked Autoencoders for Self-supervised Learning on 3D Shape** \[[paper](https://openreview.net/pdf?id=C0oEBO4ZpOj)]
+10. [Arxiv 2022.09] **Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling** \[[paper](https://arxiv.org/pdf/2209.07084.pdf)] 
+11. [Arxiv 2022.10] **Federated Graph-based Networks with Shared Embedding** \[[paper](https://arxiv.org/pdf/2210.01803.pdf)]
+12. [Openview 2022] **MGMA: Mesh Graph Masked Autoencoders for Self-supervised Learning on 3D Shape** \[[paper](https://openreview.net/pdf?id=C0oEBO4ZpOj)]
 
     
 ## Year 2021
