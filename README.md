@@ -121,7 +121,7 @@
 3. [TMM 2022] **Latent Heterogeneous Graph Network for Incomplete Multi-View Learning** \[[paper](https://arxiv.org/pdf/2208.13669.pdf)]
 4. [TCYB 2022] **Amer: A New Attribute-Missing Network Embedding Approach** \[[paper](https://ieeexplore.ieee.org/abstract/document/9765782/)]
 5. [TNNLS 2022] **Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning** \[[paper](https://yangliang.github.io/pdf/tnnls22.pdf)]
-6. [IEEE TCSVT 2022] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper](https://arxiv.org/pdf/2112.00739.pdf)]
+6. [TCSVT 2022] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper](https://arxiv.org/pdf/2112.00739.pdf)]
 7. [NMI 2022] **Molecular Contrastive Learning of Representations via Graph Neural Networks** \[[paper](https://www.nature.com/articles/s42256-022-00447-x)]
 8. [PR 2022] **Incomplete Multiview Nonnegative Representation Learning with Multiple Graphs** \[[paper](https://www.sciencedirect.com/science/article/pii/S0031320321005884?casa_token=gw2E5xd2I78AAAAA:K8mBWuiiuB7PptbiBRRmOO0yoEJBttFvjYaHC61caGoKWjyXVq2ggw5WNKoKcvqW3_cVe2S3EQ)]
 9. [Neurocomputing 2022] **Infer-AVAE: An Attribute Inference Model Based on Adversarial Variational Autoencoder** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001485)]
