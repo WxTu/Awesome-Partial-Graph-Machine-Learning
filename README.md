@@ -15,29 +15,35 @@
 <p align = "justify">Graph machine learning has been intensively studied and widely applied into various applications recently, such as social network, knowledge graph, recommender system, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for partial graph machine learning literature. </p>
 
 ## Year 2024
-1. [IEEE TPAMI 2024] **Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation** \[[paper](https://arxiv.org/pdf/2401.07721.pdf)]
-2. [BFG 2024] **GAM-MDR: Probing MiRNA–drug Resistance Using A Graph Autoencoder Based on Random Path Masking** \[[paper](https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae005/7612636)]
-3. [ACM TKDD 2024] **ProtoMGAE: Prototype-aware Masked Graph Auto-Encoder for Graph Representation Learning** \[[paper](https://dl.acm.org/doi/abs/10.1145/3649143)]
-4. [IEEE TNNLS 2024] **Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network** \[[paper](https://ieeexplore.ieee.org/document/10398247)]
-5. [IEEE TNNLS 2024] **Multilevel Contrastive Graph Masked Autoencoders for Unsupervised Graph-Structure Learning** \[[paper](https://ieeexplore.ieee.org/document/10423234)]
-6. [IEEE TNNLS 2024] **Redundancy Is Not What You Need: An Embedding Fusion Graph Auto-Encoder for Self-Supervised Graph Representation Learning** \[[paper](https://ieeexplore.ieee.org/document/10418497)]
-7. 13. [Information Fusion 2024] **Multi-view Graph Imputation Network** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408)]
-8. [KBS 2024] **HeGAE-AC: Heterogeneous Graph Auto-encoder for Attribute Completion** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000716)]
-9. [KBS 2024] **Attribute Imputation Autoencoders for Attribute-Missing Graphs** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124002181)]
-10. [AAAI 2024] **Incomplete Contrastive Multi-View Clustering with High-Confidence Guiding** \[[paper](https://arxiv.org/pdf/2312.05739.pdf)]
-11. [AAAI 2024] **GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking** \[[paper](https://arxiv.org/pdf/2312.08697.pdf)]
-12. [AAAI 2024] **Rethinking Graph Masked Autoencoders through Alignment and Uniformity** \[[paper](https://arxiv.org/pdf/2402.07225.pdf)]
-13. [AAAI 2024] **Attribute-Missing Graph Clustering Network** \[[paper](https://arxiv.org/pdf/2402.07225.pdf)]
-14. [WACV 2024] **MGM-AE: Self-Supervised Learning on 3D Shape Using Mesh Graph Masked Autoencoders** \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_MGM-AE_Self-Supervised_Learning_on_3D_Shape_Using_Mesh_Graph_Masked_WACV_2024_paper.pdf)]
-15. [WWW 2024] **Masked Graph Autoencoder with Non-discrete Bandwidths** \[[paper](https://arxiv.org/pdf/2402.03814.pdf)|[code](https://github.com/Newiz430/Bandana)]
-16. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
-17. [IJDL 2024] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
-18. [Arxiv 2024.01] **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
-19. [Arxiv 2024.01] **Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2401.12997.pdf)]
-20. [Arxiv 2024.02] **Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling** \[[paper](https://arxiv.org/pdf/2402.10634.pdf)]
-21. [Arxiv 2024.02] **Masked Attention is All You Need for Graphs** \[[paper](https://arxiv.org/pdf/2402.10793.pdf)]
-22. [Arxiv 2024.02] **UGMAE: A Unified Framework for Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2402.08023.pdf)]
-23. [IEEE TNNLS 2024] **Masked Spatial-Spectral Autoencoders Are Excellent Hyperspectral Defenders** \[[paper](https://arxiv.org/pdf/2207.07803.pdf)]
+### Journal
+1. [TPAMI 2024] **Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation** \[[paper](https://arxiv.org/pdf/2401.07721.pdf)]
+2. [TNNLS 2024] **Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network** \[[paper](https://ieeexplore.ieee.org/document/10398247)]
+3. [TNNLS 2024] **Multilevel Contrastive Graph Masked Autoencoders for Unsupervised Graph-Structure Learning** \[[paper](https://ieeexplore.ieee.org/document/10423234)]
+4. [TNNLS 2024] **Redundancy Is Not What You Need: An Embedding Fusion Graph Auto-Encoder for Self-Supervised Graph Representation Learning** \[[paper](https://ieeexplore.ieee.org/document/10418497)]
+5. [IEEE TNNLS 2024] **Masked Spatial-Spectral Autoencoders Are Excellent Hyperspectral Defenders** \[[paper](https://arxiv.org/pdf/2207.07803.pdf)]
+6. [KBS 2024] **HeGAE-AC: Heterogeneous Graph Auto-encoder for Attribute Completion** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000716)]
+7. [KBS 2024] **Attribute Imputation Autoencoders for Attribute-Missing Graphs** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124002181)]
+8. [Information Fusion 2024] **Multi-view Graph Imputation Network** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408)]
+9. [ACM TKDD 2024] **ProtoMGAE: Prototype-aware Masked Graph Auto-Encoder for Graph Representation Learning** \[[paper](https://dl.acm.org/doi/abs/10.1145/3649143)]
+10. [BFG 2024] **GAM-MDR: Probing MiRNA–drug Resistance Using A Graph Autoencoder Based on Random Path Masking** \[[paper](https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae005/7612636)]
+
+### Conference
+1. [WWW 2024] **Masked Graph Autoencoder with Non-discrete Bandwidths** \[[paper](https://arxiv.org/pdf/2402.03814.pdf)|[code](https://github.com/Newiz430/Bandana)]
+2. [AAAI 2024] **Incomplete Contrastive Multi-View Clustering with High-Confidence Guiding** \[[paper](https://arxiv.org/pdf/2312.05739.pdf)]
+3. [AAAI 2024] **GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking** \[[paper](https://arxiv.org/pdf/2312.08697.pdf)]
+4. [AAAI 2024] **Rethinking Graph Masked Autoencoders through Alignment and Uniformity** \[[paper](https://arxiv.org/pdf/2402.07225.pdf)]
+5. [AAAI 2024] **Attribute-Missing Graph Clustering Network** \[[paper](https://arxiv.org/pdf/2402.07225.pdf)]
+6. [WACV 2024] **MGM-AE: Self-Supervised Learning on 3D Shape Using Mesh Graph Masked Autoencoders** \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_MGM-AE_Self-Supervised_Learning_on_3D_Shape_Using_Mesh_Graph_Masked_WACV_2024_paper.pdf)]
+7. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
+8. [IJDL 2024] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
+
+### Pre-print Status
+1. [Arxiv 2024.01] **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
+2. [Arxiv 2024.01] **Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2401.12997.pdf)]
+3. [Arxiv 2024.02] **Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling** \[[paper](https://arxiv.org/pdf/2402.10634.pdf)]
+4. [Arxiv 2024.02] **Masked Attention is All You Need for Graphs** \[[paper](https://arxiv.org/pdf/2402.10793.pdf)]
+5. [Arxiv 2024.02] **UGMAE: A Unified Framework for Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2402.08023.pdf)]
+
 
 
 ## Year 2023
@@ -103,8 +109,6 @@
 38. [KSEM 2023] **Learning Graph Neural Networks on Feature-Missing Graphs** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-40283-8_22)]
 39. [ESWC 2023] **Two-view Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2112.09231.pdf)]
 
-
-
 ### Pre-print Status
 1. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
 2. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
@@ -120,8 +124,6 @@
 12. [Arxiv 2023.11] **Self-supervised Heterogeneous Graph Variational Autoencoders** \[[paper](https://arxiv.org/pdf/2311.07929.pdf)]
 13. [Openview 2023] **Active Sampling for Node Attribute Completion on Graphs** \[[paper](https://openreview.net/pdf?id=PuEOL1hhyrF)]
 14. [Openview 2023] **Toward Generalizability of Graph-based Imputation on Bio-Medical Missing Data** \[[paper](https://openreview.net/pdf?id=7iCUSBlOgh)]
-
-
 
 
 ## Year 2022
@@ -252,6 +254,7 @@
 ### Pre-print Status
 1. [Arxiv 2019.07] **Node Attribute Generation on Graphs** \[[paper](https://arxiv.org/pdf/1907.09708.pdf)]
 
+
 ## Year 2018
 ### Conference
 1. [ECCV Workshop 2018] **Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization** \[[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-11018-5_47)|[code](https://github.com/DarrenZZhang/IMC_GRMF)]
@@ -260,6 +263,7 @@
 
 ### Pre-print Status
 1. [Arxiv 2018.11] **Attributed Network Embedding for Incomplete Attributed Networks** \[[paper](https://arxiv.org/pdf/1811.11728v2.pdf)]
+
 
 ## Year 2017
 ### Conference
