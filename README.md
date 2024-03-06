@@ -36,7 +36,7 @@
 6. [WACV 2024] **MGM-AE: Self-Supervised Learning on 3D Shape Using Mesh Graph Masked Autoencoders** \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_MGM-AE_Self-Supervised_Learning_on_3D_Shape_Using_Mesh_Graph_Masked_WACV_2024_paper.pdf)]
 7. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-Based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
 
-### Pre-print Status
+### Pre-Print Status
 1. [Arxiv 2024.01] **Masked AutoEncoder for Graph Clustering without Pre-Defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
 2. [Arxiv 2024.01] **Progressive Distillation Based on Masked Generation Feature Method for Knowledge Graph Completion** \[[paper](https://arxiv.org/pdf/2401.12997.pdf)]
 3. [Arxiv 2024.02] **Graph-Based Forecasting with Missing Data through Spatiotemporal Downsampling** \[[paper](https://arxiv.org/pdf/2402.10634.pdf)]
@@ -108,7 +108,7 @@
 38. [KSEM 2023] **Learning Graph Neural Networks on Feature-Missing Graphs** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-40283-8_22)]
 39. [ESWC 2023] **Two-View Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-33455-9_16)]
 
-### Pre-print Status
+### Pre-Print Status
 1. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
 2. [Arxiv 2023.01] **AutoAC: Towards Automated Attribute Completion for Heterogeneous Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.03049.pdf)]
 3. [Arxiv 2023.01] **Who Should I Engage with At What Time? A Missing Event Aware Temporal Graph Neural Network** \[[paper](https://arxiv.org/pdf/2301.08399.pdf)] 
@@ -176,7 +176,7 @@
 34. [ECML-PKDD 2022] **Masked Graph Auto-Encoder Constrained Graph Pooling** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-26390-3_23)]
 35. [LOG 2022] **On the Unreasonable Effectiveness of Feature Propagation in Learning on Graphs with Missing Node Features** \[[paper](https://proceedings.mlr.press/v198/rossi22a.html)]
 
-### Pre-print Status
+### Pre-Print Status
 1. [Arxiv 2022.01] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper](https://arxiv.org/pdf/2201.02534)]
 2. [Arxiv 2022.02] **Graph Masked Autoencoders with Transformers** \[[paper](https://arxiv.org/pdf/2202.08391.pdf)]
 3. [Arxiv 2022.03] **ACTIVE: Augmentation-Free Graph Contrastive Learning for Partial Multi-View Clustering** \[[paper](https://arxiv.org/pdf/2203.00186.pdf)]
@@ -210,7 +210,7 @@
 9. [CIKM 2021] **Inductive Matrix Completion Using Graph Autoencoder** \[[paper](https://dl.acm.org/doi/10.1145/3459637.3482266)|[code](https://github.com/swtheing/IMC-GAE)]
 10. [ICASSP 2021] **Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation** \[[paper](https://ieeexplore.ieee.org/document/9414016)]
 
-### Pre-print Status
+### Pre-Print Status
 1. [Arxiv 2021.02] **Wasserstein Diffusion on Graphs with Missing Attributes** \[[paper](https://arxiv.org/pdf/2102.03450.pdf)]
 2. [Arxiv 2021.06] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2003.10130v2.pdf)]
 3. [Arxiv 2021.06] **Graph Context Encoder: Graph Feature Inpainting for Graph Generation and Self-Supervised Pretraining** \[[paper](https://arxiv.org/pdf/2106.10124.pdf)]
@@ -234,7 +234,7 @@
 6. [EMNLP 2020] **Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer** \[[paper](https://aclanthology.org/2020.findings-emnlp.290.pdf)|[code](https://github.com/stasl0217/KEnS)]
 7. [EMNLP 2020] **MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning** \[[paper](https://aclanthology.org/2020.findings-emnlp.351.pdf)]
 
-### Pre-print Status
+### Pre-Print Status
 1. [Arxiv 2020.01] **Node Masking: Making Graph Neural Networks Generalize and Scale Better** \[[paper](https://arxiv.org/pdf/2001.07524.pdf)]
 
 
@@ -249,7 +249,7 @@
 4. [AAAI 2019] **Matrix Completion for Graph-Based Deep Semi-Supervised Learning** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4438)]
 5. [K-CAP 2019] **Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs** \[[paper](https://dl.acm.org/doi/abs/10.1145/3360901.3364432)|[code](https://github.com/gengchenmai/Attention_GraphQA)]
 
-### Pre-print Status
+### Pre-Print Status
 1. [Arxiv 2019.07] **Node Attribute Generation on Graphs** \[[paper](https://arxiv.org/pdf/1907.09708.pdf)]
 
 
@@ -259,7 +259,7 @@
 2. [RecSys 2018] **Spectral Collaborative Filtering** \[[paper](https://dl.acm.org/doi/10.1145/3240323.3240343)|[code](https://github.com/lzheng21/SpectralCF)]
 3. [ICDM 2018] **SINE: Scalable Incomplete Network Embedding** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8594898&casa_token=4zeoSUImAh4AAAAA:eS_MhSMw--wk3bqys1mKPHT8_R2xeEJqNEYWn4hGnPEuTIHpGPKnej9V5zbRSUmueZKKYmQ63356)]
 
-### Pre-print Status
+### Pre-Print Status
 1. [Arxiv 2018.11] **Attributed Network Embedding for Incomplete Attributed Networks** \[[paper](https://arxiv.org/pdf/1811.11728v2.pdf)]
 
 
@@ -268,7 +268,7 @@
 1. [NeurIPS 2017] **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks** \[[paper](https://proceedings.neurips.cc/paper/2017/file/2eace51d8f796d04991c831a07059758-Paper.pdf)|[code](https://github.com/fmonti/mgcnn)]
 2. [CIKM 2017] **From Properties to Links: Deep Network Embedding on Incomplete Graphs** \[[paper](https://dl.acm.org/doi/10.1145/3132847.3132975)]
 
-### Pre-print Status
+### Pre-Print Status
 1. [Arxiv 2017.06] **Graph Convolutional Matrix Completion** \[[paper](https://arxiv.org/pdf/1706.02263.pdf)|[code](https://github.com/riannevdberg/gc-mc)]
 
 
