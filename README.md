@@ -199,17 +199,16 @@
 4. [TSP 2021] **Community Detection and Matrix Completion With Social and Item Similarity Graphs** \[[paper](https://ieeexplore.ieee.org/document/9328183)|[code](https://github.com/bayrameda/MrAP)]
    
 ### Conference
-1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper](https://yangliang.github.io/pdf/www21.pdf)|[code](https://github.com/liangchundong/HGNN-AC)]
+1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449914?casa_token=BT1Xr0nJL7gAAAAA:4iW-wepEdveLAhFq6RGhCrZKc693imElM3fZUdEV2c-0Ne-ZYYMk5maClTQbve7CrxZREP6SiAtCXDc)|[code](https://github.com/liangchundong/HGNN-AC)]
 2. [WWW 2021] **Mask-GVAE: Blind Denoising Graphs via Partition** \[[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449899?casa_token=aDTmh7sofQwAAAAA:P1gNVeUYMbuaWUd9WkAoCR6WGEE9Jp1sNw9eyffBc-V66EqeLYKw-jqJwzNAkb1ZXRzaXoS9JGsW36U)]
-3. [NeurIPS 2021] **Subgraph Federated Learning with Missing Neighbor Generation** \[[paper](https://openreview.net/pdf?id=SJHRf5nW93)]
+3. [NeurIPS 2021] **Subgraph Federated Learning with Missing Neighbor Generation** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html)]
 4. [NeurIPS 2021] **Multi-view Contrastive Graph Clustering** \[[paper](https://proceedings.neurips.cc/paper/2021/file/10c66082c124f8afe3df4886f5e516e0-Paper.pdf)|[code](https://github.com/panern/mcgc)]
 5. [NeurIPS 2021] **Learning Compact Representations of Neural Networks using DiscriminAtive Masking (DAM)** \[[paper](https://proceedings.neurips.cc/paper/2021/file/1cc8a8ea51cd0adddf5dab504a285915-Paper.pdf)]
 6. [NeurIPS 2021] **INDIGO: GNN-Based Inductive Knowledge Graph Completion Using Pair-Wise Encoding** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/0fd600c953cde8121262e322ef09f70e-Paper.pdf)]
 7. [AAAI Workshop 2021] **Context-Enhanced Entity and Relation Embedding for Knowledge Graph Completion** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/17932)]
 8. [KDD 2021] **Relational Message Passing for Knowledge Graph Completion** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467247)]
-9. [KDD Workshop 2021] **On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs** \[[paper](https://arxiv.org/pdf/2107.01495.pdf)|[code](https://github.com/zjzijielu/gnn-exp)]
-10. [CIKM 2021] **Inductive Matrix Completion Using Graph Autoencoder** \[[paper](https://dl.acm.org/doi/10.1145/3459637.3482266)|[code](https://github.com/swtheing/IMC-GAE)]
-11. [ICASSP 2021] **Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation** \[[paper](https://ieeexplore.ieee.org/document/9414016)]
+9. [CIKM 2021] **Inductive Matrix Completion Using Graph Autoencoder** \[[paper](https://dl.acm.org/doi/10.1145/3459637.3482266)|[code](https://github.com/swtheing/IMC-GAE)]
+10. [ICASSP 2021] **Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation** \[[paper](https://ieeexplore.ieee.org/document/9414016)]
 
 ### Pre-print Status
 1. [Arxiv 2021.02] **Wasserstein Diffusion on Graphs with Missing Attributes** \[[paper](https://arxiv.org/pdf/2102.03450.pdf)]
@@ -247,8 +246,8 @@
 1. [ICDM 2019] **Learning to Hash for Efficient Search over Incomplete Knowledge Graphs** \[[paper](https://ieeexplore.ieee.org/document/8970688)|[code](https://github.com/seu-kse/HashKG)]
 2. [IJCAI 2019] **Masked Graph Convolutional Network** \[[paper](https://www.ijcai.org/Proceedings/2019/0565.pdf)]
 3. [CVPR 2019] **Masked Graph Attention Network for Person Re-identification** \[[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Bao_Masked_Graph_Attention_Network_for_Person_Re-Identification_CVPRW_2019_paper.pdf)]
-4. [AAAI 2019] **Matrix Completion for Graph-based Deep Semi-Supervised Learning** \[[paper](https://www.researchgate.net/publication/335554255_Matrix_Completion_for_Graph-Based_Deep_Semi-Supervised_Learning)]
-5. [K-CAP 2019] **Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/1910.00084.pdf)|[code](https://github.com/gengchenmai/Attention_GraphQA)]
+4. [AAAI 2019] **Matrix Completion for Graph-based Deep Semi-Supervised Learning** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4438)]
+5. [K-CAP 2019] **Contextual Graph Attention for Answering Logical Queries over Incomplete Knowledge Graphs** \[[paper](https://dl.acm.org/doi/abs/10.1145/3360901.3364432)|[code](https://github.com/gengchenmai/Attention_GraphQA)]
 
 ### Pre-print Status
 1. [Arxiv 2019.07] **Node Attribute Generation on Graphs** \[[paper](https://arxiv.org/pdf/1907.09708.pdf)]
