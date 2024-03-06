@@ -35,7 +35,6 @@
 5. [AAAI 2024] **Attribute-Missing Graph Clustering Network** \[[paper](https://arxiv.org/pdf/2402.07225.pdf)]
 6. [WACV 2024] **MGM-AE: Self-Supervised Learning on 3D Shape Using Mesh Graph Masked Autoencoders** \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_MGM-AE_Self-Supervised_Learning_on_3D_Shape_Using_Mesh_Graph_Masked_WACV_2024_paper.pdf)]
 7. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
-8. [IJDL 2024] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
 
 ### Pre-print Status
 1. [Arxiv 2024.01] **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
