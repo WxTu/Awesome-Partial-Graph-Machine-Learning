@@ -116,6 +116,7 @@
 51. [AAAI 2023] **Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspective** \[[paper](https://arxiv.org/pdf/2208.09979.pdf)]
 
 ## Year 2022
+# Journal
 1. [TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper](https://ieeexplore.ieee.org/document/9229522)|[code](https://github.com/xuChenSJTU/SAT-master-online)]
 2. [TKDE 2022] **An Attribute-Aware Attentive GCN Model for Attribute Missing in Recommendation** \[[paper](https://ieeexplore.ieee.org/abstract/document/9272360?casa_token=hyRGhMblsaAAAAAA:CxyDGAGEM2pduLRZrqr4ZfVoLiWn4glmJRGuR0Of08Mp6DnenXu7Qgptp3xRvHDMWDz9_zcIE9JA9Q)]
 3. [TMM 2022] **Latent Heterogeneous Graph Network for Incomplete Multi-View Learning** \[[paper](https://arxiv.org/pdf/2208.13669.pdf)]
