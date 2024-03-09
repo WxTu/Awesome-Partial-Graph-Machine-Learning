@@ -136,7 +136,7 @@
 7. [NMI 2022] **Molecular Contrastive Learning of Representations via Graph Neural Networks** \[[paper](https://www.nature.com/articles/s42256-022-00447-x)]
 8. [PR 2022] **Incomplete Multiview Nonnegative Representation Learning with Multiple Graphs** \[[paper](https://www.sciencedirect.com/science/article/pii/S0031320321005884?casa_token=gw2E5xd2I78AAAAA:K8mBWuiiuB7PptbiBRRmOO0yoEJBttFvjYaHC61caGoKWjyXVq2ggw5WNKoKcvqW3_cVe2S3EQ)]
 9. [Neurocomputing 2022] **Infer-AVAE: An Attribute Inference Model Based on Adversarial Variational Autoencoder** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001485)]
-10. [KBS 2022] **Active Knowledge Graph Completion** \[[paper](https://www.sciencedirect.com/science/article/pii/S0020025522004479)]
+10. [Information Sciences 2022] **Active Knowledge Graph Completion** \[[paper](https://www.sciencedirect.com/science/article/pii/S0020025522004479)]
 11. [BIB 2022] **Attention-Wise Masked Graph Contrastive Learning for Predicting Molecular Property** \[[paper](https://academic.oup.com/bib/article/23/5/bbac303/6657662)]
 
 ### Conference
