@@ -107,6 +107,7 @@
 37. [ICCAI 2023] **MGPose: A Graph Data Augmentation Framework for 3D Human Pose Estimation via Masking** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3594315.3594340?casa_token=hXYoVt1YJAAAAAAA:WXw_FrhScuQxBnPs1XYLKF-E952atKgWqjuNUzRBJehRT_8_kW-QvSVBzqOJ0AHR1qjNDUhLovB2DQ)]
 38. [KSEM 2023] **Learning Graph Neural Networks on Feature-Missing Graphs** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-40283-8_22)]
 39. [ESWC 2023] **Two-View Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-33455-9_16)]
+40. [ICTAI 2023] **GEDI: A Graph-based End-to-end Data Imputation Framework** \[[paper](https://ieeexplore.ieee.org/abstract/document/10356450)]
 
 ### Pre-Print Status
 1. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
@@ -133,11 +134,14 @@
 4. [TCYB 2022] **Amer: A New Attribute-Missing Network Embedding Approach** \[[paper](https://ieeexplore.ieee.org/abstract/document/9765782/)]
 5. [TNNLS 2022] **Analyzing Heterogeneous Networks with Missing Attributes by Unsupervised Contrastive Learning** \[[paper](https://ieeexplore.ieee.org/abstract/document/9724614?casa_token=09W30aGajc0AAAAA:GMKD3n3bfbs8Y5SIhg-RLiwzyXj0rljKwUlmN1Ux1Sj6p0qDhkfIzz4dcnAZb9UAxHTcGPLeBwYsaQ)]
 6. [TCSVT 2022] **Incomplete Multi-View Clustering via Cross-View Relation Transfer** \[[paper](https://ieeexplore.ieee.org/abstract/document/9868042?casa_token=IwLyJ7oPCjUAAAAA:73LKLKZ09YR0jTCJLjLtOqnMJp3lu6ntIunIW0AripeIX7z_fPBYQH2frs8JS-Sd4coQuyC2zA-eFw)]
-7. [NMI 2022] **Molecular Contrastive Learning of Representations via Graph Neural Networks** \[[paper](https://www.nature.com/articles/s42256-022-00447-x)]
-8. [PR 2022] **Incomplete Multiview Nonnegative Representation Learning with Multiple Graphs** \[[paper](https://www.sciencedirect.com/science/article/pii/S0031320321005884?casa_token=gw2E5xd2I78AAAAA:K8mBWuiiuB7PptbiBRRmOO0yoEJBttFvjYaHC61caGoKWjyXVq2ggw5WNKoKcvqW3_cVe2S3EQ)]
-9. [Neurocomputing 2022] **Infer-AVAE: An Attribute Inference Model Based on Adversarial Variational Autoencoder** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001485)]
-10. [Information Sciences 2022] **Active Knowledge Graph Completion** \[[paper](https://www.sciencedirect.com/science/article/pii/S0020025522004479)]
-11. [BIB 2022] **Attention-Wise Masked Graph Contrastive Learning for Predicting Molecular Property** \[[paper](https://academic.oup.com/bib/article/23/5/bbac303/6657662)]
+7. [TITS 2022] **Traffic State Data Imputation: An Efficient Generating Method Based on the Graph Aggregator** \[[paper](https://ieeexplore.ieee.org/abstract/document/9582618)]
+8. [NMI 2022] **Molecular Contrastive Learning of Representations via Graph Neural Networks** \[[paper](https://www.nature.com/articles/s42256-022-00447-x)]
+9. [PR 2022] **Incomplete Multiview Nonnegative Representation Learning with Multiple Graphs** \[[paper](https://www.sciencedirect.com/science/article/pii/S0031320321005884?casa_token=gw2E5xd2I78AAAAA:K8mBWuiiuB7PptbiBRRmOO0yoEJBttFvjYaHC61caGoKWjyXVq2ggw5WNKoKcvqW3_cVe2S3EQ)]
+10. [KBS 2022] **Heterogeneous Graph Neural Network for Attribute Completion** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122005822)]
+11. [Neurocomputing 2022] **Infer-AVAE: An Attribute Inference Model Based on Adversarial Variational Autoencoder** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222001485)]
+12. [Information Sciences 2022] **Active Knowledge Graph Completion** \[[paper](https://www.sciencedirect.com/science/article/pii/S0020025522004479)]
+13. [BIB 2022] **Attention-Wise Masked Graph Contrastive Learning for Predicting Molecular Property** \[[paper](https://academic.oup.com/bib/article/23/5/bbac303/6657662)]
+14. [WCMC 2022] **A Higher-Order Motif-Based Spatiotemporal Graph Imputation Approach for Transportation Networks** \[[paper](https://www.hindawi.com/journals/wcmc/2022/1702170/)]
 
 ### Conference
 1. [ACL 2022] **SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-Trained Language Models** \[[paper](https://aclanthology.org/2022.acl-long.295/)]
@@ -158,23 +162,25 @@
 16. [SIGIR 2022] **Neighbour Interaction Based Click-Through Rate Prediction via Graph-Masked Transformer** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3477495.3532031?casa_token=3jLGVIlz1kgAAAAA:Rd77j_DUWuiOK2JiZzBNbCuqcfy1DhyC4kLZA0GOxyx6myXTZgTqEzTBktdxJikZdiolX_0ZIfrC_Q)]
 17. [ICLR 2022] **Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods** \[[paper](https://openreview.net/forum?id=1ugNpm7W6E)|[code](https://github.com/amazon-research/gnn-tail-generalization)]
 18. [ICLR 2022] **Neural Methods for Logical Reasoning Over Knowledge Graphs** \[[paper](https://openreview.net/forum?id=tgcAoUVHRIB)]
-19. [ICML 2022] **Self-Supervised Representation Learning via Latent Graph Prediction** \[[paper](https://proceedings.mlr.press/v162/xie22e.html)]
-20. [NeurIPS 2022] **Neural-Symbolic Entangled Framework for Complex Query Answering** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0bcfb525c8f8f07ae10a93d0b2a40e00-Abstract-Conference.html)]
-21. [NeurIPS 2022] **Rethinking Knowledge Graph Evaluation Under the Open-World Assumption** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/378226e5df7eded3e401de5c9493143c-Abstract-Conference.html)]
-22. [NeurIPS 2022] **Deep Bidirectional Language-Knowledge Graph Pretraining** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html)]
-23. [NeurIPS 2022] **Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf70320e93c08b39b1b29a348097a376-Abstract-Conference.html)]
-24. [NeurIPS 2022] **How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/adb2075b6dd31cb18dfa727240d2887e-Abstract-Conference.html)]
-25. [NeurIPS Workshop 2022] **Bi-Channel Masked Graph Autoencoders for Spatially Resolved Single-Cell Transcriptomics Data Imputation** \[[paper](https://openreview.net/pdf?id=LGFbhnR4U33)]
-26. [CIKM 2022] **I Know What You Do Not Know: Knowledge Graph Embedding via Co-Distillation Learning** \[[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557355?casa_token=M-cAkonJEaoAAAAA:7SAG6RaotBX3610Ose7aaEw_3iIF7STlhTeqcLkhzTbuFwGf45U8usalBCnkhvQ7eZmsYyC9GA_SNMI)]
-27. [CIKM 2022] **Models and Benchmarks for Representation Learning of Partially Observed Subgraphs** \[[paper](https://dl.acm.org/doi/10.1145/3511808.3557647)]
-28. [CIKM 2022] **MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio** \[[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557647?casa_token=rU7dkyRZAD4AAAAA:EfOPk4bL0rtK-Yxt9o2mdgLL5zSjYaqijUFYShPTM-tHUzPPeKS5hIfxloNNL2NE3AYqJaUmfw8BmvI)]
-29. [CIKM 2022] **MentorGNN: Deriving Curriculum for Pre-Training GNNs** \[[paper](https://dl.acm.org/doi/10.1145/3511808.3557393)]
-30. [CIKM 2022] **On Positional and Structural Node Features for Graph Neural Networks on Non-Attributed Graphs** \[[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557661?casa_token=eJXMxuzM7GkAAAAA:gEVNY3biZk4aR6TUGli5ZqWoJP737kXk34h3Ol9PpcOCbX1Q5yFW2LU4PJsoUNHZNN11hxb2nB7AA8Y)]
-31. [ICDM 2022] **Higher-Order Masked Graph Neural Networks for Traffic Flow Prediction** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10027720&casa_token=Cltr3moVNjYAAAAA:w9U7mzPFC35d5x4THIcf61_qf2LVw67h23jJQCjSR-c46RXn0KBRN8laH2YNaI4HWKz6CCzbNzLh&tag=1)]
-32. [EMNLP 2022] **Self-Supervised Graph Masking Pre-Training for Graph-to-Text Generation** \[[paper](https://aclanthology.org/2022.emnlp-main.321/)] 
-33. [COLING 2022] **The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection** \[[paper](https://aclanthology.org/2022.textgraphs-1.6/)] 
-34. [ECML-PKDD 2022] **Masked Graph Auto-Encoder Constrained Graph Pooling** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-26390-3_23)]
-35. [LOG 2022] **On the Unreasonable Effectiveness of Feature Propagation in Learning on Graphs with Missing Node Features** \[[paper](https://proceedings.mlr.press/v198/rossi22a.html)]
+19. [ICLR 2022] **Filling the G_ap_s: Multivariate Time Series Imputation by Graph Neural Networks** \[[paper](https://openreview.net/pdf?id=kOu3-S3wJ7)]
+20. [ICML 2022] **Self-Supervised Representation Learning via Latent Graph Prediction** \[[paper](https://proceedings.mlr.press/v162/xie22e.html)]
+21. [NeurIPS 2022] **Neural-Symbolic Entangled Framework for Complex Query Answering** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0bcfb525c8f8f07ae10a93d0b2a40e00-Abstract-Conference.html)]
+22. [NeurIPS 2022] **On the Discrimination Risk of Mean Aggregation Feature Imputation in Graphs** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/d4c2f25bf0c33065b7d4fb9be2a9add1-Paper-Conference.pdf)]
+23. [NeurIPS 2022] **Rethinking Knowledge Graph Evaluation Under the Open-World Assumption** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/378226e5df7eded3e401de5c9493143c-Abstract-Conference.html)]
+24. [NeurIPS 2022] **Deep Bidirectional Language-Knowledge Graph Pretraining** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/f224f056694bcfe465c5d84579785761-Abstract-Conference.html)]
+25. [NeurIPS 2022] **Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf70320e93c08b39b1b29a348097a376-Abstract-Conference.html)]
+26. [NeurIPS 2022] **How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders** \[[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/adb2075b6dd31cb18dfa727240d2887e-Abstract-Conference.html)]
+27. [NeurIPS Workshop 2022] **Bi-Channel Masked Graph Autoencoders for Spatially Resolved Single-Cell Transcriptomics Data Imputation** \[[paper](https://openreview.net/pdf?id=LGFbhnR4U33)]
+28. [CIKM 2022] **I Know What You Do Not Know: Knowledge Graph Embedding via Co-Distillation Learning** \[[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557355?casa_token=M-cAkonJEaoAAAAA:7SAG6RaotBX3610Ose7aaEw_3iIF7STlhTeqcLkhzTbuFwGf45U8usalBCnkhvQ7eZmsYyC9GA_SNMI)]
+29. [CIKM 2022] **Models and Benchmarks for Representation Learning of Partially Observed Subgraphs** \[[paper](https://dl.acm.org/doi/10.1145/3511808.3557647)]
+30. [CIKM 2022] **MGMAE: Molecular Representation Learning by Reconstructing Heterogeneous Graphs with A High Mask Ratio** \[[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557647?casa_token=rU7dkyRZAD4AAAAA:EfOPk4bL0rtK-Yxt9o2mdgLL5zSjYaqijUFYShPTM-tHUzPPeKS5hIfxloNNL2NE3AYqJaUmfw8BmvI)]
+31. [CIKM 2022] **MentorGNN: Deriving Curriculum for Pre-Training GNNs** \[[paper](https://dl.acm.org/doi/10.1145/3511808.3557393)]
+32. [CIKM 2022] **On Positional and Structural Node Features for Graph Neural Networks on Non-Attributed Graphs** \[[paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557661?casa_token=eJXMxuzM7GkAAAAA:gEVNY3biZk4aR6TUGli5ZqWoJP737kXk34h3Ol9PpcOCbX1Q5yFW2LU4PJsoUNHZNN11hxb2nB7AA8Y)]
+33. [ICDM 2022] **Higher-Order Masked Graph Neural Networks for Traffic Flow Prediction** \[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10027720&casa_token=Cltr3moVNjYAAAAA:w9U7mzPFC35d5x4THIcf61_qf2LVw67h23jJQCjSR-c46RXn0KBRN8laH2YNaI4HWKz6CCzbNzLh&tag=1)]
+34. [EMNLP 2022] **Self-Supervised Graph Masking Pre-Training for Graph-to-Text Generation** \[[paper](https://aclanthology.org/2022.emnlp-main.321/)] 
+35. [COLING 2022] **The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection** \[[paper](https://aclanthology.org/2022.textgraphs-1.6/)] 
+36. [ECML-PKDD 2022] **Masked Graph Auto-Encoder Constrained Graph Pooling** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-26390-3_23)]
+37. [LOG 2022] **On the Unreasonable Effectiveness of Feature Propagation in Learning on Graphs with Missing Node Features** \[[paper](https://proceedings.mlr.press/v198/rossi22a.html)]
 
 ### Pre-Print Status
 1. [Arxiv 2022.01] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper](https://arxiv.org/pdf/2201.02534)]
@@ -197,6 +203,7 @@
 2. [FGCS 2021] **Graph Convolutional Networks for Graphs Containing Missing Features** \[[paper](https://www.sciencedirect.com/science/article/pii/S0167739X20330405)|[code](https://github.com/marblet/GCNmf)]
 3. [FGCS 2021] **Efficient Search Over Incomplete Knowledge Graphs in Binarized Embedding Space** \[[paper](https://www-sciencedirect-com-s.nudtproxy.yitlink.com/science/article/pii/S0167739X21001217)]
 4. [TSP 2021] **Community Detection and Matrix Completion With Social and Item Similarity Graphs** \[[paper](https://ieeexplore.ieee.org/document/9328183)|[code](https://github.com/bayrameda/MrAP)]
+5. [iScience 2021] **Imputing single-cell RNA-seq data by combining graph convolution and autoencoder neural networks** \[[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8091052/)]
    
 ### Conference
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper](https://dl.acm.org/doi/abs/10.1145/3442381.3449914?casa_token=BT1Xr0nJL7gAAAAA:4iW-wepEdveLAhFq6RGhCrZKc693imElM3fZUdEV2c-0Ne-ZYYMk5maClTQbve7CrxZREP6SiAtCXDc)|[code](https://github.com/liangchundong/HGNN-AC)]
@@ -209,14 +216,17 @@
 8. [KDD 2021] **Relational Message Passing for Knowledge Graph Completion** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467247)]
 9. [CIKM 2021] **Inductive Matrix Completion Using Graph Autoencoder** \[[paper](https://dl.acm.org/doi/10.1145/3459637.3482266)|[code](https://github.com/swtheing/IMC-GAE)]
 10. [ICASSP 2021] **Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation** \[[paper](https://ieeexplore.ieee.org/document/9414016)]
+11. [ICDCS 2021] **Heterogeneous Spatio-Temporal Graph Convolution Network for Traffic Forecasting with Missing Values** \[[paper](https://ieeexplore.ieee.org/abstract/document/9546488)]
+12. [ICANN 2021] **Spatial-Temporal Traffic Data Imputation via Graph Attention Convolutional Network** \[[paper](https://link.springer.com/chapter/10.1007/978-3-030-86362-3_20)]
 
 ### Pre-Print Status
 1. [Arxiv 2021.02] **Wasserstein Diffusion on Graphs with Missing Attributes** \[[paper](https://arxiv.org/pdf/2102.03450.pdf)]
 2. [Arxiv 2021.06] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper](https://arxiv.org/pdf/2003.10130v2.pdf)]
 3. [Arxiv 2021.06] **Graph Context Encoder: Graph Feature Inpainting for Graph Generation and Self-Supervised Pretraining** \[[paper](https://arxiv.org/pdf/2106.10124.pdf)]
-4. [Arxiv 2021.10] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper](https://arxiv.org/pdf/2110.08223.pdf)]
-5. [Arxiv 2021.12] **Siamese Attribute-Missing Graph Auto-Encoder** \[[paper](https://arxiv.org/pdf/2112.04842.pdf)]
-6. [Arxiv 2021.12] **Incomplete Knowledge Graph Alignment** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
+4. [Arxiv 2021.09] **Dynamic Spatiotemporal Graph Convolutional Neural Networks for Traffic Data Imputation with Complex Missing Patterns** \[[paper](https://arxiv.org/pdf/2109.08357.pdf)]
+5. [Arxiv 2021.10] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper](https://arxiv.org/pdf/2110.08223.pdf)]
+6. [Arxiv 2021.12] **Siamese Attribute-Missing Graph Auto-Encoder** \[[paper](https://arxiv.org/pdf/2112.04842.pdf)]
+7. [Arxiv 2021.12] **Incomplete Knowledge Graph Alignment** \[[paper](https://arxiv.org/pdf/2112.09266.pdf)]
 
 
 ## Year 2020
@@ -230,9 +240,10 @@
 2. [NeurIPS 2020] **Matrix Completion with Hierarchical Graph Side Information** \[[paper](https://proceedings.neurips.cc/paper/2020/file/672cf3025399742b1a047c8dc6b1e992-Paper.pdf)]
 3. [ICLR 2020] **Inductive Matrix Completion Based on Graph Neural Networks** \[[paper](https://openreview.net/pdf?id=ByxxgCEYDS)|[code](https://github.com/muhanzhang/IGMC)]
 4. [KDD 2020] **GPT-GNN: Generative Pre-Training of Graph Neural Networks** \[[paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403237)]
-5. [EMNLP 2020] **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion** \[[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)|[code](https://github.com/JiapengWu/TeMP)]
-6. [EMNLP 2020] **Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer** \[[paper](https://aclanthology.org/2020.findings-emnlp.290.pdf)|[code](https://github.com/stasl0217/KEnS)]
-7. [EMNLP 2020] **MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning** \[[paper](https://aclanthology.org/2020.findings-emnlp.351.pdf)]
+5. [KDD 2020] **HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness** \[[paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403182)]
+6. [EMNLP 2020] **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion** \[[paper](https://aclanthology.org/2020.emnlp-main.462.pdf)|[code](https://github.com/JiapengWu/TeMP)]
+7. [EMNLP 2020] **Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer** \[[paper](https://aclanthology.org/2020.findings-emnlp.290.pdf)|[code](https://github.com/stasl0217/KEnS)]
+8. [EMNLP 2020] **MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning** \[[paper](https://aclanthology.org/2020.findings-emnlp.351.pdf)]
 
 ### Pre-Print Status
 1. [Arxiv 2020.01] **Node Masking: Making Graph Neural Networks Generalize and Scale Better** \[[paper](https://arxiv.org/pdf/2001.07524.pdf)]
@@ -261,6 +272,7 @@
 
 ### Pre-Print Status
 1. [Arxiv 2018.11] **Attributed Network Embedding for Incomplete Attributed Networks** \[[paper](https://arxiv.org/pdf/1811.11728v2.pdf)]
+2. [Arxiv 2018.11] **A Simple Yet Effective Baseline For Non-Attributed Graph Classification** \[[paper](https://arxiv.org/pdf/1811.03508.pdf)]
 
 
 ## Year 2017
