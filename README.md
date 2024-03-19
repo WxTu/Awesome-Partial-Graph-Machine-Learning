@@ -24,7 +24,7 @@
 6. [KBS 2024] **HeGAE-AC: Heterogeneous Graph Auto-Encoder for Attribute Completion** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124000716)]
 7. [KBS 2024] **Attribute Imputation Autoencoders for Attribute-Missing Graphs** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124002181)]
 8. [Information Fusion 2024] **Multi-view Graph Imputation Network** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408)]
-9. [ACM TKDD 2024] **ProtoMGAE: Prototype-Aware Masked Graph Auto-Encoder for Graph Representation Learning** \[[paper](https://dl.acm.org/doi/abs/10.1145/3649143)]
+9. [TKDD 2024] **ProtoMGAE: Prototype-Aware Masked Graph Auto-Encoder for Graph Representation Learning** \[[paper](https://dl.acm.org/doi/abs/10.1145/3649143)]
 10. [BFG 2024] **GAM-MDR: Probing MiRNA–Drug Resistance Using A Graph Autoencoder Based on Random Path Masking** \[[paper](https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae005/7612636)]
 
 ### Conference
@@ -33,8 +33,9 @@
 3. [AAAI 2024] **GAMC: An Unsupervised Method for Fake News Detection using Graph Autoencoder with Masking** \[[paper](https://arxiv.org/pdf/2312.08697.pdf)]
 4. [AAAI 2024] **Rethinking Graph Masked Autoencoders through Alignment and Uniformity** \[[paper](https://arxiv.org/pdf/2402.07225.pdf)]
 5. [AAAI 2024] **Attribute-Missing Graph Clustering Network** \[[paper](https://arxiv.org/pdf/2402.07225.pdf)]
-6. [WACV 2024] **MGM-AE: Self-Supervised Learning on 3D Shape Using Mesh Graph Masked Autoencoders** \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_MGM-AE_Self-Supervised_Learning_on_3D_Shape_Using_Mesh_Graph_Masked_WACV_2024_paper.pdf)]
-7. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-Based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
+6. [WSDM 2024] **Incomplete Graph Learning via Attribute-Structure Decoupled Variational Auto-Encoder** \[[paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635769)]
+7. [WACV 2024] **MGM-AE: Self-Supervised Learning on 3D Shape Using Mesh Graph Masked Autoencoders** \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_MGM-AE_Self-Supervised_Learning_on_3D_Shape_Using_Mesh_Graph_Masked_WACV_2024_paper.pdf)]
+8. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-Based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
 
 ### Pre-Print Status
 1. [Arxiv 2024.01] **Masked AutoEncoder for Graph Clustering without Pre-Defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
