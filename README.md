@@ -11,7 +11,7 @@
 [![visitors][visitors-img]][adgc-url]
 
 
-# Awesome Partial Graph Machine Learning :blush:
+# Awesome Partial Graph Machine Learning
 <p align = "justify">Graph machine learning has been intensively studied and widely applied to various applications recently, such as social networks, knowledge graphs, recommender systems, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes and 2) the absence of all the attributes of specific nodes. Here we provide collections for partial graph machine learning literature. </p>
 
 ## Year 2024
