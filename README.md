@@ -112,6 +112,7 @@
 39. [ESWC 2023] **Two-View Graph Neural Networks for Knowledge Graph Completion** \[[paper](https://link.springer.com/chapter/10.1007/978-3-031-33455-9_16)]
 40. [ICTAI 2023] **GEDI: A Graph-based End-to-end Data Imputation Framework** \[[paper](https://ieeexplore.ieee.org/abstract/document/10356450)]
 41. [ICDM 2023] **Towards Unsupervised Graph Completion Learning on Graphs with Features and Structure Missing** \[[paper](https://www.computer.org/csdl/proceedings-article/icdm/2023/078800b019/1Ui3dkp3IeQ)]
+42. [KDD 2023] **Learning Strong Graph Neural Networks with Weak Information** \[[paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599410)]
 
 ### Pre-Print Status
 1. [Arxiv 2023.01] **Generative Graph Neural Networks for Link Prediction** \[[paper](https://arxiv.org/pdf/2301.00169.pdf)]
