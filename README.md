@@ -37,11 +37,12 @@
 4. [AAAI 2024] **Rethinking Graph Masked Autoencoders through Alignment and Uniformity** \[[paper](https://arxiv.org/pdf/2402.07225.pdf)]
 5. [AAAI 2024] **Attribute-Missing Graph Clustering Network** \[[paper](https://arxiv.org/pdf/2402.07225.pdf)]
 6. [AAAI 2024] **Full-Body Motion Reconstruction with Sparse Sensing from Graph Perspective** \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28483)]
-7. [WSDM 2024] **Incomplete Graph Learning via Attribute-Structure Decoupled Variational Auto-Encoder** \[[paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635769)]
-8. [WACV 2024] **MGM-AE: Self-Supervised Learning on 3D Shape Using Mesh Graph Masked Autoencoders** \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_MGM-AE_Self-Supervised_Learning_on_3D_Shape_Using_Mesh_Graph_Masked_WACV_2024_paper.pdf)]
-9. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-Based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
-10. [ICASSP 2024] **GLMAE: Graph Representation Learning Method Combining Generative Learning and Masking Autoencoder** \[[paper](https://ieeexplore.ieee.org/abstract/document/10448306)]
-11. [ICASSP 2024] **GFMAE: Self-Supervised GNN-Free Masked Autoencoders** \[[paper](https://ieeexplore.ieee.org/abstract/document/10447038)]
+7. [IJCAI 2024] **Where to Mask: Structure-Guided Masking for Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2404.15806)]
+8. [WSDM 2024] **Incomplete Graph Learning via Attribute-Structure Decoupled Variational Auto-Encoder** \[[paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635769)]
+9. [WACV 2024] **MGM-AE: Self-Supervised Learning on 3D Shape Using Mesh Graph Masked Autoencoders** \[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_MGM-AE_Self-Supervised_Learning_on_3D_Shape_Using_Mesh_Graph_Masked_WACV_2024_paper.pdf)]
+10. [ICASSP 2024] **Recovering Missing Node Features with Local Structure-Based Embeddings** \[[paper](https://arxiv.org/pdf/2309.09068.pdf)]
+11. [ICASSP 2024] **GLMAE: Graph Representation Learning Method Combining Generative Learning and Masking Autoencoder** \[[paper](https://ieeexplore.ieee.org/abstract/document/10448306)]
+12. [ICASSP 2024] **GFMAE: Self-Supervised GNN-Free Masked Autoencoders** \[[paper](https://ieeexplore.ieee.org/abstract/document/10447038)]
 
 ### Pre-Print Status
 1. [Arxiv 2024.01] **Masked AutoEncoder for Graph Clustering without Pre-Defined Cluster Number k** \[[paper](https://arxiv.org/pdf/2401.04741.pdf)]
@@ -49,8 +50,10 @@
 3. [Arxiv 2024.02] **Graph-Based Forecasting with Missing Data through Spatiotemporal Downsampling** \[[paper](https://arxiv.org/pdf/2402.10634.pdf)]
 4. [Arxiv 2024.02] **Masked Attention is All You Need for Graphs** \[[paper](https://arxiv.org/pdf/2402.10793.pdf)]
 5. [Arxiv 2024.02] **UGMAE: A Unified Framework for Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2402.08023.pdf)]
-6. [Arxiv 2024.06] **Reconstructing the Unseen: GRIOT for Attributed Graph Imputation with Optimal Transport** \[[paper](https://hal.science/hal-04604650/)]
-7. [Arxiv 2024.06] **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data** \[[paper](https://arxiv.org/pdf/2406.03511)]
+6. [Arxiv 2024.05] **Hi-GMAE: Hierarchical Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2405.10642)]
+7. [Arxiv 2024.05] **Masked Graph Transformer for Large-Scale Recommendation** \[[paper](https://arxiv.org/pdf/2405.04028)]
+8. [Arxiv 2024.06] **Reconstructing the Unseen: GRIOT for Attributed Graph Imputation with Optimal Transport** \[[paper](https://hal.science/hal-04604650/)]
+9. [Arxiv 2024.06] **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data** \[[paper](https://arxiv.org/pdf/2406.03511)]
 
 
 
