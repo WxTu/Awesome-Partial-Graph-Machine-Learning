@@ -50,6 +50,7 @@
 4. [Arxiv 2024.02] **Masked Attention is All You Need for Graphs** \[[paper](https://arxiv.org/pdf/2402.10793.pdf)]
 5. [Arxiv 2024.02] **UGMAE: A Unified Framework for Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2402.08023.pdf)]
 6. [Arxiv 2024.06] **Reconstructing the Unseen: GRIOT for Attributed Graph Imputation with Optimal Transport** \[[paper](https://hal.science/hal-04604650/)]
+7. [Arxiv 2024.06] **MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data** \[[paper](https://arxiv.org/pdf/2406.03511)]
 
 
 
