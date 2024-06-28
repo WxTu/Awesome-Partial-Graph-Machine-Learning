@@ -27,6 +27,7 @@
 9. [TKDD 2024] **ProtoMGAE: Prototype-Aware Masked Graph Auto-Encoder for Graph Representation Learning** \[[paper](https://dl.acm.org/doi/abs/10.1145/3649143)]
 10. [BFG 2024] **GAM-MDR: Probing MiRNA–Drug Resistance Using A Graph Autoencoder Based on Random Path Masking** \[[paper](https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae005/7612636)]
 11. [TAI 2024] **Incomplete Graph Learning via Partial Graph Convolutional Network** \[[paper](https://ieeexplore.ieee.org/abstract/document/10495099)]
+12. [ESWA 2024] **Higher Order Heterogeneous Graph Neural Network Based on Node Attribute Enhancement** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029068)]
 
 ### Conference
 1. [WWW 2024] **Masked Graph Autoencoder with Non-Discrete Bandwidths** \[[paper](https://arxiv.org/pdf/2402.03814.pdf)|[code](https://github.com/Newiz430/Bandana)]
@@ -46,6 +47,7 @@
 3. [Arxiv 2024.02] **Graph-Based Forecasting with Missing Data through Spatiotemporal Downsampling** \[[paper](https://arxiv.org/pdf/2402.10634.pdf)]
 4. [Arxiv 2024.02] **Masked Attention is All You Need for Graphs** \[[paper](https://arxiv.org/pdf/2402.10793.pdf)]
 5. [Arxiv 2024.02] **UGMAE: A Unified Framework for Graph Masked Autoencoders** \[[paper](https://arxiv.org/pdf/2402.08023.pdf)]
+6. [Arxiv 2024.06] **Reconstructing the Unseen: GRIOT for Attributed Graph Imputation with Optimal Transport** \[[paper](https://hal.science/hal-04604650/)]
 
 
 
