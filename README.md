@@ -28,6 +28,7 @@
 10. [BFG 2024] **GAM-MDR: Probing MiRNA–Drug Resistance Using A Graph Autoencoder Based on Random Path Masking** \[[paper](https://academic.oup.com/bfg/advance-article-abstract/doi/10.1093/bfgp/elae005/7612636)]
 11. [TAI 2024] **Incomplete Graph Learning via Partial Graph Convolutional Network** \[[paper](https://ieeexplore.ieee.org/abstract/document/10495099)]
 12. [ESWA 2024] **Higher Order Heterogeneous Graph Neural Network Based on Node Attribute Enhancement** \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029068)]
+13. [TOMM 2024] **SCAE: Structural Contrastive Auto-encoder for Incomplete Multi-view Representation Learning** \[[paper](https://dl.acm.org/doi/abs/10.1145/3672078)]
 
 ### Conference
 1. [WWW 2024] **Masked Graph Autoencoder with Non-Discrete Bandwidths** \[[paper](https://arxiv.org/pdf/2402.03814.pdf)|[code](https://github.com/Newiz430/Bandana)]
